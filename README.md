@@ -78,6 +78,11 @@ RabbitMQ or Kafka
 Search Engine
 ElasticSearch / Solr
 
+## Documentation
+* Markdown
+* JSDoc
+* Swagger (https://app.swaggerhub.com/)
+
 ## Deployment
 
 Docker
