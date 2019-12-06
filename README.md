@@ -92,6 +92,8 @@ ElasticSearch / Solr
 
 ## Architecure
 
+#### Programming Paradigms
+
 #### Architectural styles
 
 #### Design patterns
