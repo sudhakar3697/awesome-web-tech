@@ -67,10 +67,10 @@ GraphQL
 
 Authentication / Authorization
 OAuth 2.0
-Basic
-Token Auth
-JWT
-OpenID
+* Basic
+* Token Auth
+* JWT
+* OpenID
 
 Message Brokers
 RabbitMQ or Kafka
@@ -85,10 +85,10 @@ ElasticSearch / Solr
 
 ## Deployment
 
-Docker
-Web Servers (Apache, Nginx)
-Hosting
-https (letsencrypt)
+* Docker
+* Web Servers (Apache, Nginx)
+* Hosting
+* https (letsencrypt)
 
 ## Architecure
 
