@@ -6,7 +6,8 @@ HTML (Semantics, SEO, Accessibility)
 CSS (RWD)
 JavaScript
 
-package manager : npm
+#### Package Manager
+* npm
 
 #### CSS Pre-processors
 * SASS
@@ -28,14 +29,18 @@ package manager : npm
 * Prettier
 #### Module bundler
 * Webpack
+#### Framework (SPA)
+* React, Angular, Vue, Svelte
+#### State management
+* Redux
+#### Reactive programming
+* RxJS
+#### CSS in JS
+* Styles components
+* CSS modules
 
-Framework (SPA): React, Angular, Vue, Svelte
-State management: Redux
-Reactive programming: RxJS
-
-CSS in JS: Styles components, CSS modules
-
-Test: Jest, Enzyme, Cypress
+#### Test
+* Jest, Enzyme, Cypress
 
 Progressive Web Apps (Latest Web APIs,SSE, Sockets, Service workers, Push notifications)
 
