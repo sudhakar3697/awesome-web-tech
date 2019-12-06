@@ -2,9 +2,14 @@
 
 [roadmap.sh](https://roadmap.sh)
 
-HTML (Semantics, SEO, Accessibility)
-CSS (RWD)
-JavaScript
+#### HTML 
+* Semantics, SEO, Accessibility
+
+#### CSS 
+* RWD
+
+#### JavaScript
+* ESNext
 
 #### Package Manager
 * npm
@@ -19,86 +24,101 @@ JavaScript
 * MaterializeCSS
 * Bulma
 * Semantic UI
+
 #### CSS Architecture
 * BEM
+
 #### Task runner 
 * npm scripts
+
 #### Linter
 * ESLint
+
 #### Formatter
 * Prettier
+
 #### Module bundler
 * Webpack
+
 #### Framework (SPA)
 * React, Angular, Vue, Svelte
+
 #### State management
 * Redux
+
 #### Reactive programming
 * RxJS
+
 #### CSS in JS
 * Styles components
 * CSS modules
 
 #### Test
 * Jest, Enzyme, Cypress
+* Lighthouse, DevTools
 
-Progressive Web Apps (Latest Web APIs,SSE, Sockets, Service workers, Push notifications)
+#### Progressive Web Apps 
+* Latest Web APIs
+* SSE 
+* Sockets 
+* Service workers
+* Push notifications
 
-Lighthouse, DevTools
+#### TypeScript
 
-TypeScript
+#### CSR / SSR
+#### SSR
+* Next.js
 
-CSR / SSR
-SSR: (Next.js)
+#### Static site generator
+* GatsbyJS
 
-Static site generator: GatsbyJS
+#### WebAssembly
 
-WebAssembly
-
+#### Serverless
+* AWS Lambda/ Azure functions/ Cloud functions
 
 Babel
 UI
 Lazy loading
 Streaming the response from Node Server
-Sockets
-NGROK
-Serverless
-netlify
-GIT
 
-Node.js 
-(Best practices, Security, OWASP)
+#### Node.js 
+* Express.js (Sessions)
 
-Express.js (Sessions)
+#### Relational DB (SQL)
+* MySQL
+* SQLite
 
-Relational DB (SQL)
-MySQL, SQLite
+#### NoSQL DB
+* MongoDB
 
-NoSQL DB
-MongoDB
+#### Caching 
+* MemCached, Redis
 
-Caching (MemCached, Redis)
+#### REST
 
-REST
-GraphQL
+#### GraphQL
 
-Authentication / Authorization
-OAuth 2.0
+#### Authentication / Authorization
+* OAuth 2.0
 * Basic
 * Token Auth
 * JWT
 * OpenID
 
-Message Brokers
-RabbitMQ or Kafka
+#### Message Brokers
+* RabbitMQ or Kafka
 
-Search Engine
-ElasticSearch / Solr
+#### Search Engine
+* ElasticSearch / Solr
 
 ## Documentation
 * Markdown
 * JSDoc
 * Swagger (https://app.swaggerhub.com/)
+
+## Best practices, Security, OWASP
 
 ## Deployment
 
@@ -106,6 +126,10 @@ ElasticSearch / Solr
 * Web Servers (Apache, Nginx)
 * Hosting
 * https (letsencrypt)
+* netlify
+* GIT
+* Tunnels (Ngrok)
+* Proxy, VPN
 
 ## Architecure
 
@@ -118,9 +142,3 @@ ElasticSearch / Solr
 #### Architectural patterns
 
 #### SOLID YAGNI KISS
-
-
-
-
-
-
