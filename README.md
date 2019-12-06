@@ -8,14 +8,26 @@ JavaScript
 
 package manager : npm
 
-CSS Pre-processors (SASS, PostCSS, Less)
-CSS Frameworks (Bootstrap, MaterializeCSS, Bulma, Semantic UI)
-CSS Architecture (BEM)
+#### CSS Pre-processors
+* SASS
+* PostCSS
+* Less
 
-Task runner: npm scripts
-Linter: ESLint
-Formatter: Prettier
-Module bundler: Webpack
+#### CSS Frameworks
+* Bootstrap
+* MaterializeCSS
+* Bulma
+* Semantic UI
+#### CSS Architecture
+* BEM
+#### Task runner 
+* npm scripts
+#### Linter
+* ESLint
+#### Formatter
+* Prettier
+#### Module bundler
+* Webpack
 
 Framework (SPA): React, Angular, Vue, Svelte
 State management: Redux
