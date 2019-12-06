@@ -113,14 +113,14 @@ Streaming the response from Node Server
 #### Search Engine
 * ElasticSearch / Solr
 
-## Documentation
+#### Documentation
 * Markdown
 * JSDoc
 * Swagger (https://app.swaggerhub.com/)
 
-## Best practices, Security, OWASP
+#### Best practices, Security, OWASP
 
-## Deployment
+#### Deployment
 
 * Docker
 * Web Servers (Apache, Nginx)
@@ -131,7 +131,7 @@ Streaming the response from Node Server
 * Tunnels (Ngrok)
 * Proxy, VPN
 
-## Architecure
+#### Architecure
 
 #### Programming Paradigms
 
