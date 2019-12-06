@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Clips</title>
+</head>
+
+<body>
+    <h1>Clips!</h1>
+    <table>
+        <tr>
+            <td>E-Mail</td>
+            <td><input id='uid' type="email" /></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input id='pwd' type="password" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td> <button onclick='addUser()'>Create</button></td>
+        </tr>
+    </table>
+
+    <script>
+        function addUser() {
+            let uid = document.querySelector('#uid').value;
+            let pwd = document.querySelector('#pwd').value;
+            console.log(uid + ' ' + pwd);
+            fetch('/users', {
+                method: 'POST',
+                mode: 'cors', // no-cors, *cors, same-origin
+                cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+                credentials: 'same-origin', // include, *same-origin, omit
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                redirect: 'follow', // manual, *follow, error
+                referrer: 'no-referrer', // no-referrer, *client
+                body: JSON.stringify({
+                    uid: uid,
+                    pwd: pwd
+                })
+            }).then((i) => console.log(i.status));
+        }
+    </script>
+</body>
+
+</html>
