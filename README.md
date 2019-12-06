@@ -6,10 +6,11 @@
 * Semantics, SEO, Accessibility
 
 #### CSS 
-* RWD
+* RWD, UI-Lazy loading
 
 #### JavaScript
 * ESNext
+* Babel
 
 #### Package Manager
 * npm
@@ -41,7 +42,10 @@
 * Webpack
 
 #### Framework (SPA)
-* React, Angular, Vue, Svelte
+* React
+* Angular
+* Vue
+* Svelte
 
 #### State management
 * Redux
@@ -66,7 +70,10 @@
 
 #### TypeScript
 
+#### Single Page Apps (SPA)/MPA
+
 #### CSR / SSR
+
 #### SSR
 * Next.js
 
@@ -74,17 +81,15 @@
 * GatsbyJS
 
 #### WebAssembly
+* WASM
+* WASI (Lucet, wasmer, wasmtime), https://bytecodealliance.org
+
 
 #### Serverless
 * AWS Lambda/ Azure functions/ Cloud functions
 
-Babel
-UI
-Lazy loading
-Streaming the response from Node Server
-
 #### Node.js 
-* Express.js (Sessions)
+* Express.js (Sessions, Streaming the response from Node Server)
 
 #### Relational DB (SQL)
 * MySQL
