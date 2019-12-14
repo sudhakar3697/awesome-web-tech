@@ -62,6 +62,7 @@
 * Lighthouse, DevTools
 
 #### Progressive Web Apps 
+* App shell
 * Latest Web APIs
 * SSE 
 * Sockets 
