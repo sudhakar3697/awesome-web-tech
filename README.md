@@ -46,6 +46,8 @@
 * Angular
 * Vue
 * Svelte
+* Polymer
+* Inferno
 
 #### State management
 * Redux
