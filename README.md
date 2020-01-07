@@ -13,7 +13,7 @@
 * Character Encodings
 * Licenses (Open Source vs Closed Source)
 * Semantic Versioning
-* UI/UX
+* UI/UX (Prototype/ Wireframes)
 * API
 
 #### HTML 
@@ -58,7 +58,7 @@
 #### Formatter
 * Prettier
 
-#### Module bundler
+#### Module bundler, Minification, Obfuscation
 * Webpack
 
 #### Front End Frameworks (SPA)
@@ -113,7 +113,12 @@
 
 #### REST API
 
-#### GraphQL
+#### [GraphQL](https://graphql.org/)
+
+#### API Clients
+* Curl
+* [Insomnia](https://insomnia.rest/)
+* [Postman](https://www.getpostman.com/)
 
 #### Authentication / Authorization
 * Basic
@@ -121,6 +126,7 @@
 * JWT
 * OAuth 2.0
 * OpenID Connect
+* Single Sign-On (Kerberos, SAML)
 
 #### Message Brokers
 * RabbitMQ or Kafka
@@ -137,6 +143,8 @@
 
 #### Deployment (Hosting)
 
+* Source code protection
+* pkg
 * Docker
 * Web Servers (Apache, Nginx)
 * https (letsencrypt)
@@ -147,7 +155,7 @@
 * CDN
 * CMS
 
-#### Developer Tools & Utilities
+#### Developer Tools & Utilities, Code editor vs IDE
 * [VS Code](https://code.visualstudio.com/)
 * [nodemon](https://nodemon.io/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
@@ -188,6 +196,12 @@
 
 * [Web Scrapping](https://pusher.com/tutorials/web-scraper-node)
 * [Deno](https://deno.land/)
+* Bot
+* Web Hooks
+* Web bundle
+* gRPC
+* QUIC
+* HTTP/2, HTTP/3
 
 #### Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
@@ -201,37 +215,18 @@
 
 #### TO DO
 * CORS
-* Source code protection
-* pkg
-* minify
 * polyfill
-* hashing
-* cryptography
-* gRPC
-* QUIC
-* HTTP/2, HTTP/3
 * TCP/UDP
-* Bot
-* Cloud Services
-* Web Hooks
-* Compile vs interpret vs transpile
 * Logging
-* Concurrent, Multi-threading
-* Prototype/ Wireframes
-* Postman, Insomnia, Curl
-* code editor vs IDE
 * Compression
 * Caching
-* Single Sign-On
 * Cookies
-* XML
 * AJAX
 * Sessions
-* Web bundle
 
 #### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, )
+* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Compile vs interpret vs transpile, JIT, AOT )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
 * Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
