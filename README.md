@@ -50,7 +50,7 @@
 #### Module bundler
 * Webpack
 
-#### Framework (SPA)
+#### Front End Frameworks (SPA)
 * React
 * Svelte
 
@@ -68,7 +68,8 @@
 * Jest, Enzyme, Cypress
 * Lighthouse, DevTools
 
-#### TypeScript
+#### JavaScript Flavors 
+* TypeScript
 
 #### WebAssembly
 * WASM
@@ -77,8 +78,9 @@
 #### Serverless
 * AWS Lambda/ Azure functions/ Google Cloud functions
 
-#### Node.js 
-* Express.js (Sessions, Streaming the response from Node Server)
+#### Back End Frameworks
+* Express.js (Sessions, Streaming the response from Node.js Server)
+* Spring (Java)
 
 #### Relational DB (SQL)
 * Postgress
@@ -96,10 +98,6 @@
 #### REST
 
 #### GraphQL
-
-#### Java
-* Core
-* Spring
 
 #### Authentication / Authorization
 * Basic
