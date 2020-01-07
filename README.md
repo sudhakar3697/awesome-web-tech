@@ -102,6 +102,8 @@
 * Postgress
 * SQLite
 
+#### ORM (Sequelize) & Query builders (Knex)
+
 #### NoSQL DB
 * MongoDB
 
@@ -172,6 +174,7 @@
 * Push notifications
 
 #### Programming Paradigms (OOP, functional, reactive)
+* OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
 
 #### Architectural styles (Microservices)
 
@@ -224,10 +227,11 @@
 * Single Sign-On
 * Cookies
 
-* Software Engineering
-* Operating Systems
-* Database Systems
-* Computer Networks
+* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection)
+* Software Engineering (SDLC, UML)
+* Operating Systems (Boot process, Process, Threads, CPU Scheduling, Synchronization, Deadlock, Memory management, Disk management)
+* Database Systems (ER model, Normalization, Indexing, Query Optimization)
+* Computer Networks (OSI Layer)
 * Computer Organization & Architecture
 
 #### Watch
