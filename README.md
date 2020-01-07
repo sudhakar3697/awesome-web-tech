@@ -1,20 +1,25 @@
 # Awesome Web Tech
 
 #### General
+* Client-Server Architecture
+* Internet (IP, DNS, Proxy)
+* World Wide Web
+* HTTP/S
+* Browsers
 * Character encodings
-* HTTP
 * Licenses
 * Semantic Versioning
 
 #### HTML 
-* Semantics, SEO, Accessibility
+* HTML5, Semantics, SEO, Accessibility
 
 #### CSS & Styling (UI/UX) 
-* RWD, UI-Lazy loading
+* CSS3, Responsive Web Design, UI-Lazy loading
 
 #### Web/Browser APIs
 
 #### JavaScript
+* JavaScript
 * ESNext
 * Babel
 
@@ -126,6 +131,13 @@
 * Proxy, VPN
 * CDN
 * CMS
+
+#### Developer Tools
+* [VS Code](https://code.visualstudio.com/)
+* [nodemon](https://nodemon.io/)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* [Node.js Debugging](https://nodejs.org/de/docs/guides/debugging-getting-started/)
+* [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
 
 #### Architecure
 
