@@ -133,14 +133,15 @@
 * CDN
 * CMS
 
-#### Developer Tools
+#### Developer Tools & Utilities
 * [VS Code](https://code.visualstudio.com/)
 * [nodemon](https://nodemon.io/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [Node.js Debugging](https://nodejs.org/de/docs/guides/debugging-getting-started/)
 * [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
 
-#### Architecure
+### Architecure
+
 * Web Components
 * Single Page Apps (SPA)/MPA
 * CSR / SSR (Next.js) / Hydration
@@ -167,7 +168,7 @@
 #### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
 
 #### Mobile App Development using Web Technologies
-* React Native
+* [React Native](https://facebook.github.io/react-native/)
 
 #### Desktop App Development using Web Technologies
 * [electron](https://electronjs.org/). For alternatives [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
