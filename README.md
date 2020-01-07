@@ -168,5 +168,11 @@
 
 #### Data Structures
 
+#### Mobile App Development using Web Technologies
+* React Native
+
+#### Desktop App Development using Web Technologies
+* electron
+
 #### References
 * [roadmap.sh](https://roadmap.sh)
