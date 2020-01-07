@@ -1,22 +1,20 @@
-# Awesome Web Tech
+# Awesome Web Technology
 
 #### General
 
-* [Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Client-Server Architecture
 * Internet (IP, DNS, Proxy)
 * World Wide Web
 * Web Page vs Website vs Web Server
 * Static Websites vs Dynamic Websites
-* HTTP/S
+* HTTP/S Protocol
 * Browsers (Rendering Engines, JavaScript Engines)
-* Search Engines
+* Browser Search Engines
 * Character Encodings
 * Licenses (Open Source vs Closed Source)
 * Semantic Versioning
 * UI/UX
 * API
-
 
 #### HTML 
 * HTML5, Semantics, Accessibility
@@ -30,6 +28,8 @@
 * Babel
 
 #### JSON
+
+#### XML
 
 #### Web/Browser APIs (DOM, BOM)
 * DOM Manipulation (jQuery)
@@ -230,7 +230,7 @@
 * Web bundle
 
 #### Computer Science
-
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
 * Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
