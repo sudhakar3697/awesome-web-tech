@@ -1,7 +1,5 @@
 # awesome-web-tech
 
-[roadmap.sh](https://roadmap.sh)
-
 #### HTML 
 * Semantics, SEO, Accessibility
 
@@ -148,3 +146,6 @@
 #### Architectural patterns (MVC, MVVM, Flux, Redux)
 
 #### SOLID YAGNI KISS DIY
+
+#### References
+* [roadmap.sh](https://roadmap.sh)
