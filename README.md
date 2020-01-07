@@ -219,9 +219,16 @@
 * Prototype/ Wireframes
 * Postman, Insomnia, Curl
 * code editor vs IDE
+* Compression
+* Caching
+* Single Sign-On
+* Cookies
 
 * Software Engineering
 * Operating Systems
 * Database Systems
 * Computer Networks
 * Computer Organization & Architecture
+
+#### Watch
+* Web bundle
