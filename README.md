@@ -16,7 +16,7 @@
 #### CSS & Styling (UI/UX) 
 * CSS3, Responsive Web Design, UI-Lazy loading
 
-#### Web/Browser APIs
+#### Web/Browser APIs (DOM, BOM)
 
 #### JavaScript
 * JavaScript
@@ -32,7 +32,8 @@
 * Less
 
 #### CSS Frameworks
-* Bootstrap
+* [Bootstrap](https://getbootstrap.com/)
+* [Ant Design](https://ant.design/)
 
 #### CSS Architecture
 * BEM
@@ -140,7 +141,7 @@
 * [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
 
 #### Architecure
-
+* Web Components
 * Single Page Apps (SPA)/MPA
 * CSR / SSR (Next.js) / Hydration
 
