@@ -5,8 +5,10 @@
 #### HTML 
 * Semantics, SEO, Accessibility
 
-#### CSS 
+#### CSS & Styling (UI/UX) 
 * RWD, UI-Lazy loading
+
+#### Web/Browser APIs
 
 #### JavaScript
 * ESNext
@@ -15,16 +17,13 @@
 #### Package Manager
 * npm
 
-#### CSS Pre-processors
+#### CSS Pre-processors ❌
 * SASS
 * PostCSS
 * Less
 
 #### CSS Frameworks
 * Bootstrap
-* MaterializeCSS
-* Bulma
-* Semantic UI
 
 #### CSS Architecture
 * BEM
@@ -43,16 +42,12 @@
 
 #### Framework (SPA)
 * React
-* Angular
-* Vue
 * Svelte
-* Polymer
-* Inferno
 
 #### State management
 * Redux
 
-#### Reactive programming
+#### Reactive programming ❌
 * RxJS
 
 #### CSS in JS
@@ -63,63 +58,51 @@
 * Jest, Enzyme, Cypress
 * Lighthouse, DevTools
 
-#### Progressive Web Apps 
-* App shell
-* Latest Web APIs
-* SSE 
-* Sockets 
-* Service workers
-* Push notifications
-
 #### TypeScript
-
-#### Single Page Apps (SPA)/MPA
-
-#### CSR / SSR
-
-#### SSR
-* Next.js
-
-#### Static site generator
-* GatsbyJS
 
 #### WebAssembly
 * WASM
 * WASI (Lucet, wasmer, wasmtime), https://bytecodealliance.org
 
-
 #### Serverless
-* AWS Lambda/ Azure functions/ Cloud functions
+* AWS Lambda/ Azure functions/ Google Cloud functions
 
 #### Node.js 
 * Express.js (Sessions, Streaming the response from Node Server)
 
 #### Relational DB (SQL)
-* MySQL
+* Postgress
 * SQLite
 
 #### NoSQL DB
 * MongoDB
 
+#### Graph DB
+* dgraph
+
 #### Caching 
-* MemCached, Redis
+* Redis, MemCached
 
 #### REST
 
 #### GraphQL
 
+#### Java
+* Core
+* Spring
+
 #### Authentication / Authorization
-* OAuth 2.0
 * Basic
 * Token Auth
 * JWT
-* OpenID
+* OAuth 2.0
+* OpenID Connect
 
 #### Message Brokers
 * RabbitMQ or Kafka
 
 #### Search Engine
-* ElasticSearch / Solr
+* ElasticSearch
 
 #### Documentation
 * Markdown
@@ -128,25 +111,40 @@
 
 #### Best practices, Security, OWASP
 
-#### Deployment
+#### Deployment (Hosting)
 
 * Docker
 * Web Servers (Apache, Nginx)
-* Hosting
 * https (letsencrypt)
 * netlify
 * GIT
 * Tunnels (Ngrok)
 * Proxy, VPN
+* CDN
+* CMS
 
 #### Architecure
 
-#### Programming Paradigms
+* Single Page Apps (SPA)/MPA
+* CSR / SSR (Next.js) / Hydration
 
-#### Architectural styles
+#### JAMStack (Static site generator,..)
+* GatsbyJS
+
+#### Progressive Web Apps 
+* App shell
+* Latest Web APIs
+* SSE 
+* Sockets 
+* Service workers
+* Push notifications
+
+#### Programming Paradigms (OOP, functional, reactive)
+
+#### Architectural styles (Microservices)
 
 #### Design patterns
 
-#### Architectural patterns
+#### Architectural patterns (MVC, MVVM, Flux, Redux)
 
-#### SOLID YAGNI KISS
+#### SOLID YAGNI KISS DIY
