@@ -168,7 +168,7 @@
 #### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
 
 #### Mobile App Development using Web Technologies
-* [React Native](https://facebook.github.io/react-native/)
+* [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
 
 #### Desktop App Development using Web Technologies
 * [electron](https://electronjs.org/). For alternatives [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
