@@ -28,8 +28,6 @@
 
 #### CSS Pre-processors ❌
 * SASS
-* PostCSS
-* Less
 
 #### CSS Frameworks
 * [Bootstrap](https://getbootstrap.com/)
