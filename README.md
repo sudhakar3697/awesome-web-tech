@@ -1,4 +1,4 @@
-# Clips
+# awesome-web-tech
 
 [roadmap.sh](https://roadmap.sh)
 
