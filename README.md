@@ -227,7 +227,9 @@
 * XML
 * AJAX
 * Sessions
+* Web bundle
 
+#### Computer Science
 
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
@@ -235,15 +237,11 @@
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
 * Computer Networks, Data Communication (OSI Layer) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
 * Computer Organization & Architecture, Digital electronics (Combinational vs Sequential circuits), Microprocessors (ASM), Microcontrollers (Memory hierarchy, Number System)
-* Data mining AI/ML
+* Data mining (AI/ML)
 * Data Structures
-* Algorithms (Searching, sorting, hashing)
+* Algorithms (Searching, Sorting, Hashing)
 * Algorithm Design Techniques (Greedy, Divide & Conquery, Dynamic programming)
-* Asymptotic worst case time and space complexity
+* Asymptotic worst case time and space complexity analysis
 * Distributed Systems
 * Cloud Computing & Virtualization
 * Internet of Things
-
-
-#### Watch
-* Web bundle
