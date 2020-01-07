@@ -1,6 +1,8 @@
 # Awesome Web Tech
 
 #### General
+
+* [Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Client-Server Architecture
 * Internet (IP, DNS, Proxy)
 * World Wide Web
@@ -163,6 +165,10 @@
 #### Architectural patterns (MVC, MVVM, Flux, Redux)
 
 #### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
+
+#### Algorithms
+
+#### Data Structures
 
 #### References
 * [roadmap.sh](https://roadmap.sh)
