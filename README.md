@@ -33,6 +33,13 @@
 
 #### Web/Browser APIs (DOM, BOM)
 * DOM Manipulation (jQuery)
+* Fetch, XMLHttpRequest
+
+#### Graphics
+* 2D (Canvas, SVG)
+* 3D (WebGL)
+* Video/Audio
+* WebRTC
 
 #### Search Engine Optimization (SEO)
 
@@ -75,7 +82,7 @@
 * Styles components
 * CSS modules
 
-#### Test (Unit vs functional vs integration)
+#### Test (Unit vs functional vs integration) & Optimization
 * Jest, Enzyme, Cypress
 * Lighthouse, DevTools
 
