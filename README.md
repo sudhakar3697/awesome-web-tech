@@ -3,11 +3,11 @@
 #### General
 
 * Client-Server Architecture
-* Internet (IP, DNS, Proxy)
+* Internet (IP, DNS, Proxy, domain)
 * World Wide Web
 * Web Page vs Website vs Web Server
 * Static Websites vs Dynamic Websites
-* HTTP/S Protocol
+* HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes)
 * Browsers (Rendering Engines, JavaScript Engines)
 * Browser Search Engines
 * Character Encodings
@@ -15,6 +15,8 @@
 * Semantic Versioning
 * UI/UX (Prototype/ Wireframes)
 * API
+* Web Standards
+* i18n, Localization
 
 #### HTML 
 * HTML5, Semantics, Accessibility
@@ -34,6 +36,8 @@
 #### Web/Browser APIs (DOM, BOM)
 * DOM Manipulation (jQuery)
 * Fetch, XMLHttpRequest
+* AJAX
+
 
 #### Graphics
 * 2D (Canvas, SVG)
@@ -42,6 +46,7 @@
 * WebRTC
 
 #### Search Engine Optimization (SEO)
+* Slug
 
 #### Package Manager
 * npm
@@ -155,7 +160,7 @@
 * Docker
 * Web Servers (Apache, Nginx)
 * https (letsencrypt)
-* netlify
+* netlify, Github pages
 * GIT
 * Tunnels (Ngrok)
 * Proxy, VPN
@@ -216,24 +221,22 @@
 #### Desktop App Development using Web Technologies
 * [electron](https://electronjs.org/). For alternatives [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
 
+#### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
+
+#### TO DO
+* polyfill
+* Logging
+* Sessions
+* ISP
+* FTP
+
 #### References
 * [roadmap.sh](https://roadmap.sh)
 * [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 
-#### TO DO
-* CORS
-* polyfill
-* TCP/UDP
-* Logging
-* Compression
-* Caching
-* Cookies
-* AJAX
-* Sessions
-
 #### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Compile vs interpret vs transpile, JIT, AOT )
+* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
 * Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
