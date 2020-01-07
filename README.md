@@ -1,5 +1,11 @@
 # Awesome Web Tech
 
+#### General
+* Character encodings
+* HTTP
+* Licenses
+* Semantic Versioning
+
 #### HTML 
 * Semantics, SEO, Accessibility
 
