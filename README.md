@@ -12,8 +12,6 @@
 * Browsers (Rendering Engines, JavaScript Engines)
 * Search Engines
 * Character Encodings
-* Data Structures
-* Algorithms
 * Licenses
 * Semantic Versioning
 * UI/UX
@@ -227,12 +225,18 @@
 * Single Sign-On
 * Cookies
 
-* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection)
+
+* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, )
 * Software Engineering (SDLC, UML)
-* Operating Systems (Boot process, Process, Threads, CPU Scheduling, Synchronization, Deadlock, Memory management, Disk management)
+* Operating Systems (Boot process, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
-* Computer Networks (OSI Layer)
-* Computer Organization & Architecture
+* Computer Networks (OSI Layer) & Network Security (cryptography, Digital signatures,certificates, Firewalls)
+* Computer Organization & Architecture, Digital electronics, Microprocessors, Microcontrollers (Memory hierarchy, Number System)
+* AI/ML
+* Data Structures
+* Algorithms (Searching, sorting, hashing)
+* Algorithm Design Techniques (Greedy, Divide & Conquery, Dynamic programming)
+* Asymptotic worst case time and space complexity
 
 #### Watch
 * Web bundle
