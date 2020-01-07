@@ -171,6 +171,11 @@
 
 #### Browser Extensions
 
+#### Misc
+
+* [Web Scrapping](https://pusher.com/tutorials/web-scraper-node)
+* [Deno](https://deno.land/)
+
 #### Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
 
