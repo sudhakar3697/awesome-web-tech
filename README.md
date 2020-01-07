@@ -170,7 +170,7 @@
 * React Native
 
 #### Desktop App Development using Web Technologies
-* electron
+* [electron](https://electronjs.org/). For alternatives [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
 
 #### References
 * [roadmap.sh](https://roadmap.sh)
