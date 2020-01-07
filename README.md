@@ -12,7 +12,7 @@
 * Browsers (Rendering Engines, JavaScript Engines)
 * Search Engines
 * Character Encodings
-* Licenses
+* Licenses (Open Source vs Closed Source)
 * Semantic Versioning
 * UI/UX
 * API
@@ -224,19 +224,26 @@
 * Caching
 * Single Sign-On
 * Cookies
+* XML
+* AJAX
+* Sessions
 
 
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, )
-* Software Engineering (SDLC, UML)
-* Operating Systems (Boot process, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
+* Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
+* Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
-* Computer Networks (OSI Layer) & Network Security (cryptography, Digital signatures,certificates, Firewalls)
-* Computer Organization & Architecture, Digital electronics, Microprocessors, Microcontrollers (Memory hierarchy, Number System)
-* AI/ML
+* Computer Networks, Data Communication (OSI Layer) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
+* Computer Organization & Architecture, Digital electronics (Combinational vs Sequential circuits), Microprocessors (ASM), Microcontrollers (Memory hierarchy, Number System)
+* Data mining AI/ML
 * Data Structures
 * Algorithms (Searching, sorting, hashing)
 * Algorithm Design Techniques (Greedy, Divide & Conquery, Dynamic programming)
 * Asymptotic worst case time and space complexity
+* Distributed Systems
+* Cloud Computing & Virtualization
+* Internet of Things
+
 
 #### Watch
 * Web bundle
