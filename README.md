@@ -219,4 +219,9 @@
 * Prototype/ Wireframes
 * Postman, Insomnia, Curl
 * code editor vs IDE
-* 
+
+* Software Engineering
+* Operating Systems
+* Database Systems
+* Computer Networks
+* Computer Organization & Architecture
