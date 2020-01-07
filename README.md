@@ -1,4 +1,4 @@
-# awesome-web-tech
+# Awesome Web Tech
 
 #### HTML 
 * Semantics, SEO, Accessibility
