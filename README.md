@@ -11,6 +11,8 @@
 * Character encodings
 * Licenses
 * Semantic Versioning
+* Data Structures
+* Algorithms
 
 #### HTML 
 * HTML5, Semantics, SEO, Accessibility
@@ -163,10 +165,6 @@
 #### Architectural patterns (MVC, MVVM, Flux, Redux)
 
 #### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
-
-#### Algorithms
-
-#### Data Structures
 
 #### Mobile App Development using Web Technologies
 * React Native
