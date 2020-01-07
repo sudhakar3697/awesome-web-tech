@@ -6,13 +6,15 @@
 * Client-Server Architecture
 * Internet (IP, DNS, Proxy)
 * World Wide Web
+* Web Page vs Website vs Web Server
 * HTTP/S
-* Browsers
-* Character encodings
-* Licenses
-* Semantic Versioning
+* Browsers (Rendering Engines, JavaScript Engines)
+* Search Engines
+* Character Encodings
 * Data Structures
 * Algorithms
+* Licenses
+* Semantic Versioning
 
 #### HTML 
 * HTML5, Semantics, SEO, Accessibility
@@ -166,6 +168,8 @@
 #### Architectural patterns (MVC, MVVM, Flux, Redux)
 
 #### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
+
+#### Browser Extensions
 
 #### Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
