@@ -145,7 +145,7 @@
 
 #### Architectural patterns (MVC, MVVM, Flux, Redux)
 
-#### SOLID YAGNI KISS DIY
+#### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
 
 #### References
 * [roadmap.sh](https://roadmap.sh)
