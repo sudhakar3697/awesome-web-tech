@@ -7,7 +7,7 @@
 * World Wide Web
 * Web Page vs Website vs Web Server
 * Static Websites vs Dynamic Websites
-* HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes)
+* HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP
 * Browsers (Rendering Engines, JavaScript Engines)
 * Browser Search Engines
 * Character Encodings
@@ -17,6 +17,7 @@
 * API
 * Web Standards
 * i18n, Localization
+* Polyfill
 
 #### HTML 
 * HTML5, Semantics, Accessibility
@@ -37,7 +38,7 @@
 * DOM Manipulation (jQuery)
 * Fetch, XMLHttpRequest
 * AJAX
-
+* Session
 
 #### Graphics
 * 2D (Canvas, SVG)
@@ -166,6 +167,7 @@
 * Proxy, VPN
 * CDN
 * CMS
+* Logging
 
 #### Developer Tools & Utilities, Code editor vs IDE
 * [VS Code](https://code.visualstudio.com/)
@@ -223,13 +225,6 @@
 
 #### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
 
-#### TO DO
-* polyfill
-* Logging
-* Sessions
-* ISP
-* FTP
-
 #### References
 * [roadmap.sh](https://roadmap.sh)
 * [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
@@ -240,7 +235,7 @@
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
 * Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
-* Computer Networks, Data Communication (OSI Layer) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
+* Computer Networks, Data Communication (OSI Layer, ISP) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
 * Computer Organization & Architecture, Digital electronics (Combinational vs Sequential circuits), Microprocessors (ASM), Microcontrollers (Memory hierarchy, Number System)
 * Data mining (AI/ML)
 * Data Structures
