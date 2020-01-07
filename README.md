@@ -7,6 +7,7 @@
 * Internet (IP, DNS, Proxy)
 * World Wide Web
 * Web Page vs Website vs Web Server
+* Static Websites vs Dynamic Websites
 * HTTP/S
 * Browsers (Rendering Engines, JavaScript Engines)
 * Search Engines
@@ -15,19 +16,27 @@
 * Algorithms
 * Licenses
 * Semantic Versioning
+* UI/UX
+* API
+
 
 #### HTML 
-* HTML5, Semantics, SEO, Accessibility
+* HTML5, Semantics, Accessibility
 
 #### CSS & Styling (UI/UX) 
-* CSS3, Responsive Web Design, UI-Lazy loading
-
-#### Web/Browser APIs (DOM, BOM)
+* CSS3, Responsive Web Design, Animations, UI-Lazy loading
 
 #### JavaScript
 * JavaScript
 * ESNext
 * Babel
+
+#### JSON
+
+#### Web/Browser APIs (DOM, BOM)
+* DOM Manipulation (jQuery)
+
+#### Search Engine Optimization (SEO)
 
 #### Package Manager
 * npm
@@ -68,7 +77,7 @@
 * Styles components
 * CSS modules
 
-#### Test
+#### Test (Unit vs functional vs integration)
 * Jest, Enzyme, Cypress
 * Lighthouse, DevTools
 
@@ -82,8 +91,11 @@
 #### Serverless
 * AWS Lambda/ Azure functions/ Google Cloud functions
 
+#### Server Side Languages
+* Node.js (Event Loop, Modules)
+
 #### Back End Frameworks
-* Express.js (Sessions, Streaming the response from Node.js Server)
+* Express.js (Middlewares, Sessions, Streaming the response from Node.js Server)
 * Spring (Java)
 
 #### Relational DB (SQL)
@@ -99,7 +111,7 @@
 #### Caching 
 * Redis, MemCached
 
-#### REST
+#### REST API
 
 #### GraphQL
 
@@ -165,7 +177,7 @@
 
 #### Design patterns
 
-#### Architectural patterns (MVC, MVVM, Flux, Redux)
+#### Architectural patterns (MVC, MVVM, MVP, Flux, Redux)
 
 #### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
 
@@ -184,3 +196,27 @@
 
 #### References
 * [roadmap.sh](https://roadmap.sh)
+* [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+#### TO DO
+* CORS
+* Source code protection
+* pkg
+* minify
+* polyfill
+* hashing
+* cryptography
+* gRPC
+* QUIC
+* HTTP/2, HTTP/3
+* TCP/UDP
+* Bot
+* Cloud Services
+* Web Hooks
+* Compile vs interpret vs transpile
+* Logging
+* Concurrent, Multi-threading
+* Prototype/ Wireframes
+* Postman, Insomnia, Curl
+* code editor vs IDE
+* 
