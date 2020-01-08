@@ -210,8 +210,8 @@
 
 * [Web Scrapping](https://pusher.com/tutorials/web-scraper-node)
 * [Deno](https://deno.land/)
-* Bot
-* Web Hooks
+* [Bot](https://en.wikipedia.org/wiki/Internet_bot)
+* [Web Hooks](https://en.wikipedia.org/wiki/Webhook)
 * [Web bundle](https://web.dev/web-bundles/)
 * [gRPC](https://grpc.io/)
 * [QUIC](https://en.wikipedia.org/wiki/QUIC)
