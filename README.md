@@ -249,6 +249,8 @@
 * Algorithms (Searching, Sorting, Hashing)
 * Algorithm Design Techniques (Greedy, Divide & Conquery, Dynamic programming)
 * Asymptotic worst case time and space complexity analysis
+* Theory of Computation, Compiler design (Optional)
 * Distributed Systems
 * Cloud Computing & Virtualization
 * Internet of Things (Optional)
+* Mathematics (As applicable to CS)
