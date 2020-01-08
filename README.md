@@ -11,8 +11,8 @@
 * Browsers (Rendering Engines, JavaScript Engines)
 * Browser Search Engines
 * Character Encodings
-* Licenses (Open Source vs Closed Source)
-* Semantic Versioning
+* Licenses (Open Source vs Closed Source, CC, MIT, Apache, GPL, LGPL)
+* [Semantic Versioning](https://semver.org/)
 * UI/UX (Prototype/ Wireframes)
 * API
 * Web Standards
