@@ -18,6 +18,9 @@
 * Web Standards
 * i18n, Localization
 * Polyfill
+* Environment Variables
+* Regular Expressions
+
 
 #### HTML 
 * HTML5, Semantics, Accessibility
@@ -80,6 +83,8 @@
 
 #### State management
 * Redux
+
+#### Router
 
 #### Reactive programming ❌
 * RxJS
@@ -167,7 +172,9 @@
 * Proxy, VPN
 * CDN
 * CMS
-* Logging
+* Logging (morgan, winston)
+* Load balancing
+* Backups
 
 #### Developer Tools & Utilities, Code editor vs IDE
 * [VS Code](https://code.visualstudio.com/)
@@ -231,7 +238,7 @@
 
 #### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT )
+* Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
 * Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
@@ -244,4 +251,4 @@
 * Asymptotic worst case time and space complexity analysis
 * Distributed Systems
 * Cloud Computing & Virtualization
-* Internet of Things
+* Internet of Things (Optional)
