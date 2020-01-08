@@ -237,7 +237,7 @@
 * Database Systems (ER model, Normalization, Indexing, Query Optimization)
 * Computer Networks, Data Communication (OSI Layer, ISP) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
 * Computer Organization & Architecture, Digital electronics (Combinational vs Sequential circuits), Microprocessors (ASM), Microcontrollers (Memory hierarchy, Number System)
-* Data mining (AI/ML)
+* Data mining (Artificial Intelligence/Machine Learning)
 * Data Structures
 * Algorithms (Searching, Sorting, Hashing)
 * Algorithm Design Techniques (Greedy, Divide & Conquery, Dynamic programming)
