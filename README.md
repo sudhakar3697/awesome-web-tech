@@ -212,9 +212,9 @@
 * [Deno](https://deno.land/)
 * Bot
 * Web Hooks
-* Web bundle
-* gRPC
-* QUIC
+* [Web bundle](https://web.dev/web-bundles/)
+* [gRPC](https://grpc.io/)
+* [QUIC](https://en.wikipedia.org/wiki/QUIC)
 * HTTP/2, HTTP/3
 
 #### Mobile App Development using Web Technologies
