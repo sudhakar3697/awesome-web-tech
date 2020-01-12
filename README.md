@@ -15,20 +15,23 @@
 * [Semantic Versioning](https://semver.org/)
 * UI/UX (Prototype/ Wireframes)
 * API
-* Web Standards
+* Web Standards (W3C, WHATWG, ECMAScript)
 * i18n, Localization
 * Polyfill
 * Environment Variables
 * Regular Expressions
+* Splash screen
 
 #### HTML 
-* HTML5, Semantics, Accessibility
+* HTML5, Semantics, Accessibility(A11y)
 
 #### CSS & Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries), Animations, UI-Lazy loading
 
 #### JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* script async vs defer,
+* Intersection Observer
 * ESNext (ECMAScript), Modules
 * Babel
 
