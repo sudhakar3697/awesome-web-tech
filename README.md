@@ -26,22 +26,21 @@
 * HTML5, Semantics, Accessibility
 
 #### CSS & Styling (UI/UX) 
-* CSS3, Responsive Web Design, Animations, UI-Lazy loading
+* CSS3, Responsive Web Design (Media Queries), Animations, UI-Lazy loading
 
 #### JavaScript
-* JavaScript
-* ESNext
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* ESNext (ECMAScript), Modules
 * Babel
-
-#### JSON
-
-#### XML
 
 #### Web/Browser APIs (DOM, BOM)
 * DOM Manipulation (jQuery)
-* Fetch, XMLHttpRequest
-* AJAX
-* Session
+* Fetch
+* AJAX (XMLHttpRequest)
+* Cookies vs Sessions
+
+#### JSON
+#### XML
 
 #### Graphics
 * 2D (Canvas, SVG)
@@ -86,9 +85,6 @@
 
 #### Router
 
-#### Reactive programming ❌
-* RxJS
-
 #### CSS in JS
 * Styles components
 * CSS modules
@@ -97,7 +93,7 @@
 * Jest, Enzyme, Cypress
 * Lighthouse, DevTools
 
-#### JavaScript Flavors 
+#### JavaScript Flavors
 * TypeScript
 
 #### WebAssembly
@@ -124,14 +120,15 @@
 * MongoDB
 
 #### Graph DB
-* dgraph
+* dgraph or Neo4j
 
 #### Caching 
 * Redis, MemCached
 
-#### REST API
-
-#### [GraphQL](https://graphql.org/)
+#### API
+* REST API
+* [GraphQL](https://graphql.org/)
+* [JSON API](https://jsonapi.org/)
 
 #### API Clients
 * Curl
@@ -157,7 +154,15 @@
 * JSDoc
 * Swagger (https://app.swaggerhub.com/)
 
-#### Best practices, Security, OWASP
+#### Security
+* OWASP
+* HTTPS
+* Content-Security-Policy
+* CORS
+* 
+
+
+#### Best practices
 
 #### Deployment (Hosting)
 
@@ -185,9 +190,9 @@
 
 ### Architecure
 
-* Web Components
+* Web Components (HTML Templates, Custom elements, Shadow DOM)
 * Single Page Apps (SPA)/MPA
-* CSR / SSR (Next.js) / Hydration
+* CSR / SSR (Next.js, sapper) / Hydration
 
 #### JAMStack (Static site generator,..)
 * GatsbyJS
@@ -196,14 +201,14 @@
 * App shell
 * Latest Web APIs
 * SSE 
-* Sockets 
+* Web sockets 
 * Service workers
 * Push notifications
 
 #### Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
 
-#### Architectural styles (Microservices)
+#### Architectural styles (Monolith, Microservices, Serverless)
 
 #### Design patterns
 
