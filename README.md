@@ -115,7 +115,7 @@
 * Spring (Java)
 
 #### Relational DB (SQL)
-* Postgress
+* PostgreSQL
 * SQLite
 
 #### ORM (Sequelize) & Query builders (Knex)
@@ -241,7 +241,7 @@
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
 * Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
-* Database Systems (ER model, Normalization, Indexing, Query Optimization)
+* Database Systems (ER model, Normalization, Indexing, Query Optimization,Transactions, ACID, Replication, Sharding)
 * Computer Networks, Data Communication (OSI Layer, ISP) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
 * Computer Organization & Architecture, Digital electronics (Combinational vs Sequential circuits), Microprocessors (ASM), Microcontrollers (Memory hierarchy, Number System)
 * Data Science (Big data, Artificial Intelligence/Machine Learning)
