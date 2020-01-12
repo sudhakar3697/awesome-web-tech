@@ -5,11 +5,11 @@
 * Client-Server Architecture
 * Internet (IP, DNS, Proxy, domain)
 * World Wide Web
-* Web Page vs Website vs Web Server
+* Web Page vs Website vs Web Server vs Web browser
 * Static Websites vs Dynamic Websites
 * HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP
 * Browsers (Rendering Engines, JavaScript Engines)
-* Browser Search Engines
+* Browser Search Engines (Google)
 * Character Encodings
 * Licenses (Open Source vs Closed Source, CC, MIT, Apache, GPL, LGPL)
 * [Semantic Versioning](https://semver.org/)
@@ -20,7 +20,6 @@
 * Polyfill
 * Environment Variables
 * Regular Expressions
-
 
 #### HTML 
 * HTML5, Semantics, Accessibility
@@ -155,12 +154,20 @@
 * Swagger (https://app.swaggerhub.com/)
 
 #### Security
-* OWASP
-* HTTPS
-* Content-Security-Policy
+* [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Index.html) (SQL injection, XSS, Broken auth/session management, CSRF)
+* HTTPS, Transport Layer Security (TLS)
+* Content-Security-Policy (CSP)
 * CORS
-* 
+* Subresource Integrity (SRI)
 
+* Hash passwords (~~MD5~~, ~~SHA-1~~, Use Argon2, PBKDF2, scrypt or bcrypt)
+* [Hashing vs Encryption](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+
+#### Performance
+* Measuring performance (RAIL)
+* Tools (Lighthouse, WebPageTest, PageSpeed Insights, Chrome dev tools) 
+* Code splitting, Lazy loading
+* instant loading with the PRPL pattern
 
 #### Best practices
 
@@ -202,7 +209,7 @@
 * Latest Web APIs
 * SSE 
 * Web sockets 
-* Service workers
+* Service workers (Workbox)
 * Push notifications
 
 #### Programming Paradigms (OOP, functional, reactive)
