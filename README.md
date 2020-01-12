@@ -71,23 +71,23 @@
 * BEM
 
 #### Task runner 
-* npm scripts
+* [npm-scripts](https://docs.npmjs.com/misc/scripts)
 
 #### Linter
-* ESLint
+* [ESLint](https://eslint.org/)
 
 #### Formatter
-* Prettier
+* [Prettier](https://prettier.io/)
 
 #### Module bundler, Minification, Obfuscation
-* Webpack
+* [Webpack](https://webpack.js.org/)
 
 #### Front End Frameworks (SPA)
-* React
-* Svelte
+* [React](https://reactjs.org/)
+* [Svelte](https://svelte.dev/)
 
 #### State management
-* Redux
+* [Redux](https://redux.js.org/)
 
 #### Router
 
