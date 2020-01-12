@@ -100,9 +100,9 @@
 * Lighthouse, DevTools
 
 #### JavaScript Flavors
-* TypeScript
+* [TypeScript](https://www.typescriptlang.org/)
 
-#### WebAssembly
+#### [WebAssembly](https://webassembly.org/)
 * WASM
 * WASI (Lucet, wasmer, wasmtime), https://bytecodealliance.org
 
@@ -110,20 +110,20 @@
 * AWS Lambda/ Azure functions/ Google Cloud functions
 
 #### Server Side Languages
-* Node.js (Event Loop, Modules)
+* [Node.js](https://nodejs.org/) (Event Loop, Modules)
 
 #### Back End Frameworks
-* Express.js (Middlewares, Sessions, Streaming the response from Node.js Server)
+* [Express.js](https://expressjs.com/) (Middlewares, Sessions, Streaming the response from Node.js Server)
 * Spring (Java)
 
 #### Relational DB (SQL)
-* PostgreSQL
-* SQLite
+* [PostgreSQL](https://www.postgresql.org/)
+* [SQLite](https://www.sqlite.org/index.html)
 
-#### ORM (Sequelize) & Query builders (Knex)
+#### ORM ([Sequelize](https://sequelize.org/)) & Query builders ([Knex](http://knexjs.org/))
 
 #### NoSQL DB
-* MongoDB
+* [MongoDB](https://www.mongodb.com/)
 
 #### Graph DB
 * dgraph or Neo4j
@@ -137,7 +137,7 @@
 * [JSON API](https://jsonapi.org/)
 
 #### API Clients
-* Curl
+* [Curl](https://curl.haxx.se/)
 * [Insomnia](https://insomnia.rest/)
 * [Postman](https://www.getpostman.com/)
 
