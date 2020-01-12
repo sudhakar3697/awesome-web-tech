@@ -252,7 +252,7 @@
 
 #### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
 
-#### Computer Science
+### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
