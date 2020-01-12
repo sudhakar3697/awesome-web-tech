@@ -45,8 +45,9 @@
 * AJAX (XMLHttpRequest)
 * Cookies vs Sessions
 
-#### JSON
-#### XML
+####  Data exchange formats
+* JSON
+* XML
 
 #### Graphics
 * 2D (Canvas, SVG)
