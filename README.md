@@ -161,6 +161,7 @@
 * Swagger (https://app.swaggerhub.com/)
 
 #### Security
+* https://infosec.mozilla.org/guidelines/web_security
 * [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Index.html) (SQL injection, XSS, Broken auth/session management, CSRF)
 * HTTPS, Transport Layer Security (TLS)
 * Content-Security-Policy (CSP)
