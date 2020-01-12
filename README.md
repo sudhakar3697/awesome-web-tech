@@ -252,10 +252,6 @@
 
 #### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
 
-#### References
-* [roadmap.sh](https://roadmap.sh)
-* [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
-
 #### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
@@ -274,3 +270,7 @@
 * Cloud Computing & Virtualization
 * Internet of Things (Optional)
 * Mathematics, Statistics (As applicable to CS)
+
+#### References
+* [roadmap.sh](https://roadmap.sh)
+* [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
