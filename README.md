@@ -36,7 +36,11 @@
 * Babel
 
 #### Web/Browser APIs (DOM, BOM)
+
 * DOM Manipulation (jQuery)
+* Device APIs
+* Communication APIs 
+* Data management APIs
 * Fetch
 * AJAX (XMLHttpRequest)
 * Cookies vs Sessions
