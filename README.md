@@ -208,7 +208,7 @@
 
 * Web Components (HTML Templates, Custom elements, Shadow DOM)
 * Single Page Apps (SPA)/MPA
-* CSR / SSR (Next.js, sapper) / Hydration
+* CSR / SSR (Next.js, sapper) / Hydration, Prerendering
 
 #### JAMStack (Static site generator,..)
 * GatsbyJS
