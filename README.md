@@ -58,7 +58,7 @@
 * Slug
 
 #### Package Manager
-* npm
+* [npm](https://www.npmjs.com/)
 
 #### CSS Pre-processors ❌
 * SASS
