@@ -67,6 +67,7 @@
 #### CSS Frameworks
 * [Bootstrap](https://getbootstrap.com/)
 * [Ant Design](https://ant.design/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 #### CSS Architecture
 * BEM
