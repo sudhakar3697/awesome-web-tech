@@ -170,7 +170,7 @@
 * Subresource Integrity (SRI)
 
 * Hash passwords (~~MD5~~, ~~SHA-1~~, Use Argon2, PBKDF2, scrypt or bcrypt)
-* [Hashing vs Encryption](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [Hashing vs Encryption vs Encoding](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 
 #### Performance
 * Measuring performance (RAIL)
