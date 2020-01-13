@@ -49,7 +49,7 @@
 * JSON
 * XML
 
-#### Graphics
+#### Graphics ❌
 * 2D (Canvas, SVG)
 * 3D (WebGL)
 * Video/Audio
@@ -135,7 +135,7 @@
 #### API
 * REST API
 * [GraphQL](https://graphql.org/)
-* [JSON API](https://jsonapi.org/)
+* [JSON API](https://jsonapi.org/) ❌
 
 #### API Clients
 * [Curl](https://curl.haxx.se/)
