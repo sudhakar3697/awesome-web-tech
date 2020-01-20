@@ -56,7 +56,7 @@
 * WebRTC
 
 #### Search Engine Optimization (SEO)
-* Slug
+* SEO Friendly URLs (Slug)
 
 #### Package Manager
 * [npm](https://www.npmjs.com/)
@@ -209,7 +209,7 @@
 
 * Web Components (HTML Templates, Custom elements, Shadow DOM)
 * [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
-* [CSR / SSR (Next.js, sapper) / Hydration, Prerendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
+* [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 
 #### JAMStack (Static site generator,..)
 * GatsbyJS
