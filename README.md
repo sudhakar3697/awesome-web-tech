@@ -21,6 +21,7 @@
 * Environment Variables
 * Regular Expressions
 * Splash screen
+* [12 Factors](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
 
 #### HTML 
 * HTML5, Semantics, Accessibility(A11y)
@@ -31,9 +32,16 @@
 #### JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * script async vs defer,
+* Async programming
+* Understanding functions, context and binding in JavaScript
 * Intersection Observer
 * ESNext (ECMAScript), Modules
 * Babel
+* Module system (CommonJs vs mjs)
+
+#### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
+* virtual DOM
+* JSX
 
 #### Web/Browser APIs (DOM, BOM)
 
