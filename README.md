@@ -37,7 +37,7 @@
 * Intersection Observer
 * ESNext (ECMAScript), Modules
 * Babel
-* Module system (CommonJs vs mjs)
+* Module system (CommonJS vs AMD vs UMD vs ESM)
 
 #### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
 * virtual DOM
