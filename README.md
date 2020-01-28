@@ -133,7 +133,7 @@
 #### ORM ([Sequelize](https://sequelize.org/)) & Query builders ([Knex](http://knexjs.org/))
 
 #### NoSQL DB
-* [MongoDB](https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/) & MongoDB Atlas
 
 #### Graph DB
 * dgraph or Neo4j
