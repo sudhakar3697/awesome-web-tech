@@ -233,6 +233,9 @@
 #### Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
 
+* Event Sourcing
+* CQRS
+
 #### Architectural styles (Monolith, Microservices, Serverless)
 
 #### Design patterns
