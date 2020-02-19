@@ -56,6 +56,7 @@
 ####  Data exchange formats
 * JSON
 * XML
+* Protobuf (Protocol Buffers by Google)
 
 #### Graphics ❌
 * 2D (Canvas, SVG)
