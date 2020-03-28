@@ -28,6 +28,7 @@
 
 #### CSS & Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries), Animations, UI-Lazy loading
+* CSS Box model, Grid, Flexbox
 
 #### JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -257,6 +258,7 @@
 * [gRPC](https://grpc.io/)
 * [QUIC](https://en.wikipedia.org/wiki/QUIC)
 * HTTP/2, HTTP/3
+* Web Components (Custom Elements, Shadow DOM)
 
 #### Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
