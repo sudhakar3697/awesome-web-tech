@@ -290,3 +290,4 @@
 #### References
 * [roadmap.sh](https://roadmap.sh)
 * [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
+* [web-skills](https://andreasbm.github.io/web-skills/?compact)
