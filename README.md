@@ -1,4 +1,4 @@
-# Awesome Web Technology
+# Awesome Web Technologies
 
 #### General (Refer the Computer Science section also)
 
