@@ -7,10 +7,10 @@
 * Client-Server Architecture
 * Web Page vs Website vs Web Server vs Web browser
 * Static Websites vs Dynamic Websites
-* HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP
+* HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP.
 * Browsers (Rendering Engines-Blik, Gecko, Webkit, JavaScript Engines-V8, SpiderMonkey, JavascriptCore)
 * Browser Search Engines (Google)
-* Character Encodings
+* Character Encodings (UTF, ASCII)
 * Licenses (Open Source vs Closed Source, CC, MIT, Apache, GPL, LGPL)
 * [Semantic Versioning](https://semver.org/)
 * UI/UX (Prototype/ Wireframes)
@@ -21,6 +21,7 @@
 * Environment Variables
 * Regular Expressions
 * Splash screen
+* Input validation
 * [12 Factors](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
 
 #### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -28,31 +29,30 @@
 * [Vector graphics to the Web (SVG)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 * [Document structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
+## Search Engine Optimization (SEO)
+* SEO Friendly URLs (Slug)
+
 #### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
 * CSS Box model, Grid, Flexbox
+## CSS Pre-processors (SASS)
+## CSS Frameworks
+* [Bootstrap](https://getbootstrap.com/)
+* [Ant Design](https://ant.design/)
+* [Tailwind CSS](https://tailwindcss.com/)
+## CSS Architecture (BEM)
 
 #### JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Module system (CommonJS vs AMD vs UMD vs ESM)
 * ESNext (ECMAScript - Rest/Spread, Destructuring, Template Literals, let/const, for-await, for-of)
-* script async vs defer,
-* Async programming (Callbacks, Promises,Async/Await, Error handling)
+* script async vs defer
+* Async programming (Callbacks, Promises, Async/Await, Error handling)
 * OOP (Objects, Prototypes, Classes)
 * Understanding functions, context and binding in JavaScript
 * Events
-* Intersection Observer
-
-* Polyfill (Babel)
-
-#### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
-* DOM vs virtual DOM vs shadow DOM
-* JSX
-
-#### Web Components (HTML Templates, Custom elements, Shadow DOM)
 
 #### Web/Browser APIs (DOM, BOM)
-
 * DOM Manipulation (jQuery)
 * Device APIs
 * Communication APIs 
@@ -60,34 +60,12 @@
 * Fetch
 * AJAX (XMLHttpRequest)
 * Cookies vs Sessions
-
-####  Data exchange formats
-* JSON
-* XML
-* Protobuf (Protocol Buffers by Google)
-
-#### Graphics ❌
-* 2D (Canvas, SVG)
-* 3D (WebGL)
-* Video/Audio
-* WebRTC
-
-#### Search Engine Optimization (SEO)
-* SEO Friendly URLs (Slug)
+* Intersection Observer
+#### Graphics (2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebRTC) - If required
+####  Data exchange formats (JSON, XML, Protobuf (Protocol Buffers by Google))
 
 #### Package Manager
 * [npm](https://www.npmjs.com/)
-
-#### CSS Pre-processors ❌
-* SASS
-
-#### CSS Frameworks
-* [Bootstrap](https://getbootstrap.com/)
-* [Ant Design](https://ant.design/)
-* [Tailwind CSS](https://tailwindcss.com/)
-
-#### CSS Architecture
-* BEM
 
 #### Task runner 
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
@@ -101,25 +79,43 @@
 #### Module bundler, Minification, Obfuscation
 * [Webpack](https://webpack.js.org/)
 
+#### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
+* DOM vs virtual DOM vs shadow DOM
+* JSX
+
+#### Web Components (HTML Templates, Custom elements, Shadow DOM)
+
 #### Front End Frameworks (SPA)
 * [React](https://reactjs.org/)
 * [Svelte](https://svelte.dev/)
+
+#### CSS in JS
+* Styles components
+* CSS modules
 
 #### State management
 * [Redux](https://redux.js.org/)
 
 #### Router
 
-#### CSS in JS
-* Styles components
-* CSS modules
-
-#### Test (Unit vs functional vs integration) & Optimization
-* Jest, Enzyme, Cypress
-* Lighthouse, DevTools
-
-#### JavaScript Flavors
+#### JavaScript Flavors, Polyfills, Transpilers,Compilers
 * [TypeScript](https://www.typescriptlang.org/)
+* [Babel](https://babeljs.io/)
+
+### Progressive Web Apps 
+* App shell
+* Latest Web APIs (Storage, Add-to-homescreen, Native FS, Share)
+* Server-Sent Events (SSE) 
+* Web sockets 
+* Service workers (Workbox)
+* Push notifications
+* WebAPK, Trusted Web Activity (TWA)
+
+* [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
+* [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
+
+### JAMStack (Static site generator,..)
+* GatsbyJS
 
 #### [WebAssembly](https://webassembly.org/)
 * WASM
@@ -127,6 +123,10 @@
 
 #### Serverless
 * AWS Lambda/ Azure functions/ Google Cloud functions
+
+#### Test (Unit vs functional vs integration) & Optimization
+* Jest, Enzyme, Cypress
+* Lighthouse, DevTools
 
 #### Server Side Languages
 * [Node.js](https://nodejs.org/) (Event Loop, Modules, Native node modules (N-API))
@@ -147,7 +147,7 @@
 #### Graph DB
 * dgraph or Neo4j
 
-#### Caching 
+#### Caching (Server-side)
 * Redis, MemCached
 
 #### API
@@ -186,7 +186,6 @@
 * Content-Security-Policy (CSP)
 * CORS
 * Subresource Integrity (SRI)
-
 * Hash passwords (~~MD5~~, ~~SHA-1~~, Use Argon2, PBKDF2, scrypt or bcrypt)
 * [Hashing vs Encryption vs Encoding](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 
@@ -195,8 +194,6 @@
 * Tools (Lighthouse, WebPageTest, PageSpeed Insights, Chrome dev tools) 
 * Code splitting, Lazy loading
 * instant loading with the PRPL pattern
-
-#### Best practices
 
 #### Deployment (Hosting)
 
@@ -222,36 +219,16 @@
 * [Node.js Debugging](https://nodejs.org/de/docs/guides/debugging-getting-started/)
 * [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
 
-#### Architecure
-
-### Progressive Web Apps 
-* App shell
-* Latest Web APIs (Storage, Add-to-homescreen, Native FS, Share)
-* Server-Sent Events (SSE) 
-* Web sockets 
-* Service workers (Workbox)
-* Push notifications
-* WebAPK, Trusted Web Activity (TWA)
-
-* [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
-* [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
-
-### JAMStack (Static site generator,..)
-* GatsbyJS
-
 #### Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
 
-* Event Sourcing
-* CQRS
+#### Architectural styles (Monolith, Microservices, Serverless, Event Sourcing, CQRS)
 
-#### Architectural styles (Monolith, Microservices, Serverless)
-
-#### Design patterns
+#### Design patterns (Creational vs Structural vs Behavioral)
 
 #### Architectural patterns (MVC, MVVM, MVP, Flux, Redux)
 
-#### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA)
+#### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA, DRY)
 
 #### Browser Extensions
 
@@ -273,6 +250,8 @@
 * [electron](https://electronjs.org/). For alternatives [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
 
 #### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
+
+#### Best practices
 
 ### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
