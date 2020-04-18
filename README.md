@@ -66,12 +66,13 @@
 * DOM Manipulation
 * Device APIs
 * Communication APIs
-* Data management APIs
+* Data management APIs (localstorage, sessionstorage, webSQL, indexeddb)
 * Fetch vs AJAX (XMLHttpRequest)
 * Cookies vs Sessions
 * Intersection Observer
-* WebXR, WebUSB, WebBluetooth, WebAuth, Creds, Native FS, Share)
-* Graphics (2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebRTC)
+* WebVR, WebSpeech, WebXR, WebUSB, WebBluetooth, WebAuth, Creds, Native FS, Share)
+* Graphics (WebAnimations, 2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebAudio WebRTC)
+* Streams
 
 #### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
 * DOM vs virtual DOM vs shadow DOM
@@ -136,7 +137,7 @@
 * SOAP ❌
 
 #### Server Side Languages/Runtimes (Javascript | Java | Go | Rust | Python | C# | PHP | Ruby)
-* [Node.js](https://nodejs.org/) (Event Loop, Modules, Native node modules (N-API))
+* [Node.js](https://nodejs.org/) (Event Loop, Modules, Cluster, Native node modules (N-API), Neon (RUST- wasm-pack))
 * [Deno](https://deno.land/)
 
 ### Back End Frameworks
