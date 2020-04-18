@@ -25,6 +25,18 @@
 * [12 Factors](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
 * Data exchange formats (JSON, XML, Protobuf (Protocol Buffers by Google))
 * CDN (Content Delivery Network)
+* Terminal/CMD usage (Basic Commands)
+
+#### Version control & Repo hosting (Git, Github)
+#### Developer Tools & Utilities, Code editor vs IDE, API Clients
+* [VS Code](https://code.visualstudio.com/)
+* [nodemon](https://nodemon.io/)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* [Node.js Debugging](https://nodejs.org/de/docs/guides/debugging-getting-started/)
+* [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
+* [Curl](https://curl.haxx.se/)
+* [Insomnia](https://insomnia.rest/)
+* [Postman](https://www.getpostman.com/)
 
 #### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * HTML5, Semantics, Accessibility(A11y)
@@ -33,31 +45,29 @@
 
 #### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
-* CSS Box model, Grid, Flexbox
+* CSS Box model, Grid, Flexbox, Positioning
 ##### CSS Pre-processors (SASS)
 ##### CSS Frameworks/Libraries
-* [Bootstrap](https://getbootstrap.com/)
-* [Ant Design](https://ant.design/)
-* [Tailwind CSS](https://tailwindcss.com/)
+* CSS First - [Bootstrap](https://getbootstrap.com/)
+* JS Based - Material UI, [Ant Design](https://ant.design/)
 ##### CSS Architecture (BEM)
 
 #### JavaScript
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (Syntax, Concepts like hoisting, closure, generators)
 * Module system (CommonJS vs AMD vs UMD vs ESM)
 * ESNext (ECMAScript - Rest/Spread, Destructuring, Template Literals, let/const, for-await, for-of)
 * script async vs defer
 * Async programming (Callbacks, Promises, Async/Await, Error handling)
 * OOP (Objects, Prototypes, Classes)
 * Understanding functions, context and binding in JavaScript
-* Events
+* Events (Bubbling)
 
 #### Web/Browser APIs (DOM, BOM)
 * DOM Manipulation
 * Device APIs
 * Communication APIs
 * Data management APIs
-* Fetch
-* AJAX (XMLHttpRequest)
+* Fetch vs AJAX (XMLHttpRequest)
 * Cookies vs Sessions
 * Intersection Observer
 * WebXR, WebUSB, WebBluetooth, WebAuth, Creds, Native FS, Share)
@@ -73,7 +83,7 @@
 * [React](https://reactjs.org/)
 * [Svelte](https://svelte.dev/) or Angular or Vue.
 
-#### CSS in JS
+#### Modern CSS (CSS in JS)
 * Styles components
 * CSS modules
 
@@ -82,7 +92,7 @@
 
 #### Router
 
-#### JavaScript Flavors, Polyfills, Transpilers, Compilers
+#### JavaScript Flavors, Type Checkers, Polyfills, Transpilers, Compilers
 * [TypeScript](https://www.typescriptlang.org/)
 * [Babel](https://babeljs.io/)
 
@@ -95,7 +105,7 @@
 * Push notifications
 * WebAPK, Trusted Web Activity (TWA)
 * [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
-* [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
+* [CSR / Server-Side Rendering ([Next.js](https://nextjs.org/)), sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 
 ### JAMStack (Static site generator,..)
 * GatsbyJS
@@ -119,9 +129,13 @@
 #### Formatter
 * [Prettier](https://prettier.io/)
 
-<hr/>
+#### API
+* REST API
+* [GraphQL](https://graphql.org/)
+* [JSON API](https://jsonapi.org/) ❌
+* SOAP ❌
 
-#### Server Side Languages
+#### Server Side Languages/Runtimes (Javascript | Java | Go | Rust | Python | C# | PHP | Ruby)
 * [Node.js](https://nodejs.org/) (Event Loop, Modules, Native node modules (N-API))
 * [Deno](https://deno.land/)
 
@@ -140,24 +154,17 @@
 #### Graph DB
 * dgraph or Neo4j
 
-#### Caching (Server-side)
-* Redis, MemCached
+#### Caching
+* Client-side : HTTP Cache
+* Server-side : Redis, MemCached
+* CDN
 
 #### Serverless
 * Functions (AWS Lambda/ Azure functions/ Google Cloud functions)
 * Databases (Firebase cloud firestore, Amazon aurora, Azure Data lake, Google cloud datastore)
 
-#### API
-* REST API
-* [GraphQL](https://graphql.org/)
-* [JSON API](https://jsonapi.org/) ❌
-
-#### API Clients
-* [Curl](https://curl.haxx.se/)
-* [Insomnia](https://insomnia.rest/)
-* [Postman](https://www.getpostman.com/)
-
 #### Authentication / Authorization
+* Cookies
 * Basic
 * Token Auth
 * JWT
@@ -172,22 +179,10 @@
 #### Search Engine
 * ElasticSearch
 
-##### Search Engine Optimization (SEO)
-* SEO Friendly URLs (Slug)
-
-#### Test (Unit vs functional vs integration) & Optimization
-* Jest, Enzyme, Cypress
-* Lighthouse, DevTools
-
-#### Documentation
-* Markdown
-* [JSDoc](https://github.com/jsdoc/jsdoc)
-* Swagger (https://app.swaggerhub.com/)
-
 #### Security
 * https://infosec.mozilla.org/guidelines/web_security
 * [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Index.html) (SQL injection, XSS, Broken auth/session management, CSRF)
-* HTTPS, Transport Layer Security (TLS)
+* HTTPS, Transport Layer Security (SSL/TLS)
 * Content-Security-Policy (CSP)
 * CORS
 * Subresource Integrity (SRI)
@@ -200,8 +195,20 @@
 * Code splitting, Lazy loading
 * instant loading with the PRPL pattern
 
-#### Deployment (Hosting)
+#### Test (Unit vs functional vs integration) & Optimization
+* Jest, Enzyme, Cypress
+* Lighthouse, DevTools
 
+#### Documentation
+* Markdown
+* [JSDoc](https://github.com/jsdoc/jsdoc)
+* Swagger (https://app.swaggerhub.com/)
+
+##### Search Engine Optimization (SEO)
+* SEO Friendly URLs (Slug)
+
+#### Deployment (Hosting), Containers, Virtualization & Scaling
+* CI/CD
 * Source code protection
 * pkg
 * Docker, Kubernetes, Unikernels
@@ -217,19 +224,12 @@
 * Load balancing
 * Backups
 
-#### Developer Tools & Utilities, Code editor vs IDE
-* [VS Code](https://code.visualstudio.com/)
-* [nodemon](https://nodemon.io/)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-* [Node.js Debugging](https://nodejs.org/de/docs/guides/debugging-getting-started/)
-* [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
-
 #### Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
 
-#### Architectural styles (Monolith, Microservices, Serverless, Event Sourcing, CQRS)
+#### Architectural styles (Monolith, SOA, Microservices, Serverless, Event Sourcing, CQRS)
 
-#### Design patterns (Creational vs Structural vs Behavioral)
+#### Design patterns Gang of Four (GoF) -> (Creational vs Structural vs Behavioral)
 
 #### Architectural patterns (MVC, MVVM, MVP, Flux, Redux)
 
@@ -238,7 +238,6 @@
 #### Browser Extensions
 
 #### Misc
-
 * [Web Scrapping](https://pusher.com/tutorials/web-scraper-node)
 * [Bot](https://en.wikipedia.org/wiki/Internet_bot)
 * [Web Hooks](https://en.wikipedia.org/wiki/Webhook)
@@ -259,8 +258,8 @@
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
-* Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems)
-* Database Systems (ER model, Normalization, Indexing, Query Optimization,Transactions, ACID, Replication, Sharding)
+* Operating Systems (Boot process, System Calls, Process, Threads, CPU Scheduling, IPC, Concurrency, Synchronization, Deadlock, Memory management, Disk management, File systems, POSIX (stdin, stdout, stderr, pipes), I/O)
+* Database Systems (ER model, Normalization, Indexing, Query Optimization, Transactions, ACID, Replication, Sharding, CAP theorem, N+1 Problem)
 * Computer Networks, Data Communication (OSI Layer, ISP) & Informaion Security (cryptography- encryption, Hash, TLS, Digital signatures,certificates, Firewalls)
 * Computer Organization & Architecture, Digital electronics (Combinational vs Sequential circuits), Microprocessors (ASM), Microcontrollers (Memory hierarchy, Number System)
 * Data Science (Big data, Artificial Intelligence/Machine Learning)
