@@ -1,10 +1,10 @@
 # Awesome Web Technology
 
-#### General
+#### General (Refer the Computer Science section also)
 
 * Internet (IP, DNS, Proxy, domain)
 * World Wide Web
-* Client-Server Architecture
+* Client-Server Architecture vs Peer-Peer (P2P)
 * Web Page vs Website vs Web Server vs Web browser
 * Static Websites vs Dynamic Websites
 * HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP.
@@ -16,7 +16,7 @@
 * UI/UX (Prototype/ Wireframes)
 * API
 * Web Standards (W3C, WHATWG, ECMAScript, TC39)
-* i18n, Localization
+* Internationalization(i18n), Localization
 * [Polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)
 * Environment Variables
 * Regular Expressions
@@ -24,6 +24,7 @@
 * Input validation
 * [12 Factors](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
 * Data exchange formats (JSON, XML, Protobuf (Protocol Buffers by Google))
+* CDN (Content Delivery Network)
 
 #### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * HTML5, Semantics, Accessibility(A11y)
@@ -34,7 +35,7 @@
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
 * CSS Box model, Grid, Flexbox
 ##### CSS Pre-processors (SASS)
-##### CSS Frameworks
+##### CSS Frameworks/Libraries
 * [Bootstrap](https://getbootstrap.com/)
 * [Ant Design](https://ant.design/)
 * [Tailwind CSS](https://tailwindcss.com/)
@@ -51,16 +52,16 @@
 * Events
 
 #### Web/Browser APIs (DOM, BOM)
-* DOM Manipulation (jQuery)
+* DOM Manipulation
 * Device APIs
-* Communication APIs 
+* Communication APIs
 * Data management APIs
 * Fetch
 * AJAX (XMLHttpRequest)
 * Cookies vs Sessions
 * Intersection Observer
-
-#### Graphics (2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebRTC) - If required
+* WebXR, WebUSB, WebBluetooth, WebAuth, Creds, Native FS, Share)
+* Graphics (2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebRTC)
 
 #### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
 * DOM vs virtual DOM vs shadow DOM
@@ -70,7 +71,7 @@
 
 #### Front End Frameworks (SPA)
 * [React](https://reactjs.org/)
-* [Svelte](https://svelte.dev/)
+* [Svelte](https://svelte.dev/) or Angular or Vue.
 
 #### CSS in JS
 * Styles components
@@ -81,19 +82,18 @@
 
 #### Router
 
-#### JavaScript Flavors, Polyfills, Transpilers,Compilers
+#### JavaScript Flavors, Polyfills, Transpilers, Compilers
 * [TypeScript](https://www.typescriptlang.org/)
 * [Babel](https://babeljs.io/)
 
 ### Progressive Web Apps 
 * App shell
-* Latest Web APIs (Storage, Add-to-homescreen, Native FS, Share)
+* Latest Web APIs (Refer the Web/Browser API section)
 * Server-Sent Events (SSE) 
 * Web sockets 
 * Service workers (Workbox)
 * Push notifications
 * WebAPK, Trusted Web Activity (TWA)
-
 * [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
 * [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 
@@ -103,6 +103,9 @@
 #### [WebAssembly](https://webassembly.org/)
 * WASM
 * WASI (Lucet, wasmer, wasmtime), https://bytecodealliance.org
+
+#### Module bundler, Minification, Obfuscation
+* [Webpack](https://webpack.js.org/)
 
 #### Package Manager
 * [npm](https://www.npmjs.com/)
@@ -116,18 +119,14 @@
 #### Formatter
 * [Prettier](https://prettier.io/)
 
-#### Module bundler, Minification, Obfuscation
-* [Webpack](https://webpack.js.org/)
+<hr/>
 
 #### Server Side Languages
 * [Node.js](https://nodejs.org/) (Event Loop, Modules, Native node modules (N-API))
+* [Deno](https://deno.land/)
 
-#### Back End Frameworks
+### Back End Frameworks
 * [Express.js](https://expressjs.com/) (Middlewares, Sessions, Streaming the response from Node.js Server)
-* Spring (Java)
-
-#### Serverless
-* AWS Lambda/ Azure functions/ Google Cloud functions
 
 #### Relational DB (SQL)
 * [PostgreSQL](https://www.postgresql.org/)
@@ -143,6 +142,10 @@
 
 #### Caching (Server-side)
 * Redis, MemCached
+
+#### Serverless
+* Functions (AWS Lambda/ Azure functions/ Google Cloud functions)
+* Databases (Firebase cloud firestore, Amazon aurora, Azure Data lake, Google cloud datastore)
 
 #### API
 * REST API
@@ -161,6 +164,7 @@
 * OAuth 2.0
 * OpenID Connect
 * Single Sign-On (Kerberos, SAML)
+* Certificates
 
 #### Message Brokers
 * RabbitMQ or Kafka
@@ -236,7 +240,6 @@
 #### Misc
 
 * [Web Scrapping](https://pusher.com/tutorials/web-scraper-node)
-* [Deno](https://deno.land/)
 * [Bot](https://en.wikipedia.org/wiki/Internet_bot)
 * [Web Hooks](https://en.wikipedia.org/wiki/Webhook)
 * [Web bundle](https://web.dev/web-bundles/)
@@ -252,9 +255,7 @@
 
 #### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
 
-#### Best practices
-
-### Computer Science
+#### Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurreny, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
