@@ -2,9 +2,9 @@
 
 #### General
 
-* Client-Server Architecture
 * Internet (IP, DNS, Proxy, domain)
 * World Wide Web
+* Client-Server Architecture
 * Web Page vs Website vs Web Server vs Web browser
 * Static Websites vs Dynamic Websites
 * HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP
@@ -23,11 +23,12 @@
 * Splash screen
 * [12 Factors](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
 
-#### HTML 
+#### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * HTML5, Semantics, Accessibility(A11y)
+* [Vector graphics to the Web (SVG)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 
-#### CSS & Styling (UI/UX) 
-* CSS3, Responsive Web Design (Media Queries), Animations, UI-Lazy loading
+#### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
+* CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
 * CSS Box model, Grid, Flexbox
 
 #### JavaScript
