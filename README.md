@@ -23,24 +23,22 @@
 * Splash screen
 * Input validation
 * [12 Factors](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
+* Data exchange formats (JSON, XML, Protobuf (Protocol Buffers by Google))
 
 #### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * HTML5, Semantics, Accessibility(A11y)
 * [Vector graphics to the Web (SVG)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 * [Document structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
-## Search Engine Optimization (SEO)
-* SEO Friendly URLs (Slug)
-
 #### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
 * CSS Box model, Grid, Flexbox
-## CSS Pre-processors (SASS)
-## CSS Frameworks
+##### CSS Pre-processors (SASS)
+##### CSS Frameworks
 * [Bootstrap](https://getbootstrap.com/)
 * [Ant Design](https://ant.design/)
 * [Tailwind CSS](https://tailwindcss.com/)
-## CSS Architecture (BEM)
+##### CSS Architecture (BEM)
 
 #### JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -61,23 +59,8 @@
 * AJAX (XMLHttpRequest)
 * Cookies vs Sessions
 * Intersection Observer
+
 #### Graphics (2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebRTC) - If required
-####  Data exchange formats (JSON, XML, Protobuf (Protocol Buffers by Google))
-
-#### Package Manager
-* [npm](https://www.npmjs.com/)
-
-#### Task runner 
-* [npm-scripts](https://docs.npmjs.com/misc/scripts)
-
-#### Linter
-* [ESLint](https://eslint.org/)
-
-#### Formatter
-* [Prettier](https://prettier.io/)
-
-#### Module bundler, Minification, Obfuscation
-* [Webpack](https://webpack.js.org/)
 
 #### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
 * DOM vs virtual DOM vs shadow DOM
@@ -121,12 +104,20 @@
 * WASM
 * WASI (Lucet, wasmer, wasmtime), https://bytecodealliance.org
 
-#### Serverless
-* AWS Lambda/ Azure functions/ Google Cloud functions
+#### Package Manager
+* [npm](https://www.npmjs.com/)
 
-#### Test (Unit vs functional vs integration) & Optimization
-* Jest, Enzyme, Cypress
-* Lighthouse, DevTools
+#### Task runner 
+* [npm-scripts](https://docs.npmjs.com/misc/scripts)
+
+#### Linter
+* [ESLint](https://eslint.org/)
+
+#### Formatter
+* [Prettier](https://prettier.io/)
+
+#### Module bundler, Minification, Obfuscation
+* [Webpack](https://webpack.js.org/)
 
 #### Server Side Languages
 * [Node.js](https://nodejs.org/) (Event Loop, Modules, Native node modules (N-API))
@@ -134,6 +125,9 @@
 #### Back End Frameworks
 * [Express.js](https://expressjs.com/) (Middlewares, Sessions, Streaming the response from Node.js Server)
 * Spring (Java)
+
+#### Serverless
+* AWS Lambda/ Azure functions/ Google Cloud functions
 
 #### Relational DB (SQL)
 * [PostgreSQL](https://www.postgresql.org/)
@@ -173,6 +167,13 @@
 
 #### Search Engine
 * ElasticSearch
+
+##### Search Engine Optimization (SEO)
+* SEO Friendly URLs (Slug)
+
+#### Test (Unit vs functional vs integration) & Optimization
+* Jest, Enzyme, Cypress
+* Lighthouse, DevTools
 
 #### Documentation
 * Markdown
