@@ -8,16 +8,16 @@
 * Web Page vs Website vs Web Server vs Web browser
 * Static Websites vs Dynamic Websites
 * HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP
-* Browsers (Rendering Engines, JavaScript Engines)
+* Browsers (Rendering Engines-Blik, Gecko, Webkit, JavaScript Engines-V8, SpiderMonkey, JavascriptCore)
 * Browser Search Engines (Google)
 * Character Encodings
 * Licenses (Open Source vs Closed Source, CC, MIT, Apache, GPL, LGPL)
 * [Semantic Versioning](https://semver.org/)
 * UI/UX (Prototype/ Wireframes)
 * API
-* Web Standards (W3C, WHATWG, ECMAScript)
+* Web Standards (W3C, WHATWG, ECMAScript, TC39)
 * i18n, Localization
-* Polyfill
+* [Polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)
 * Environment Variables
 * Regular Expressions
 * Splash screen
@@ -26,6 +26,7 @@
 #### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * HTML5, Semantics, Accessibility(A11y)
 * [Vector graphics to the Web (SVG)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
+* [Document structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 #### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
@@ -33,17 +34,22 @@
 
 #### JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* script async vs defer,
-* Async programming
-* Understanding functions, context and binding in JavaScript
-* Intersection Observer
-* ESNext (ECMAScript), Modules
-* Babel
 * Module system (CommonJS vs AMD vs UMD vs ESM)
+* ESNext (ECMAScript - Rest/Spread, Destructuring, Template Literals, let/const, for-await, for-of)
+* script async vs defer,
+* Async programming (Callbacks, Promises,Async/Await, Error handling)
+* OOP (Objects, Prototypes, Classes)
+* Understanding functions, context and binding in JavaScript
+* Events
+* Intersection Observer
+
+* Polyfill (Babel)
 
 #### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
-* virtual DOM
+* DOM vs virtual DOM vs shadow DOM
 * JSX
+
+#### Web Components (HTML Templates, Custom elements, Shadow DOM)
 
 #### Web/Browser APIs (DOM, BOM)
 
@@ -170,7 +176,7 @@
 
 #### Documentation
 * Markdown
-* JSDoc
+* [JSDoc](https://github.com/jsdoc/jsdoc)
 * Swagger (https://app.swaggerhub.com/)
 
 #### Security
@@ -184,7 +190,7 @@
 * Hash passwords (~~MD5~~, ~~SHA-1~~, Use Argon2, PBKDF2, scrypt or bcrypt)
 * [Hashing vs Encryption vs Encoding](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 
-#### Performance
+#### Performance (Loading vs Rendering)
 * Measuring performance (RAIL)
 * Tools (Lighthouse, WebPageTest, PageSpeed Insights, Chrome dev tools) 
 * Code splitting, Lazy loading
@@ -216,22 +222,22 @@
 * [Node.js Debugging](https://nodejs.org/de/docs/guides/debugging-getting-started/)
 * [Node.js profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
 
-### Architecure
+#### Architecure
 
-* Web Components (HTML Templates, Custom elements, Shadow DOM)
-* [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
-* [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
-
-#### JAMStack (Static site generator,..)
-* GatsbyJS
-
-#### Progressive Web Apps 
+### Progressive Web Apps 
 * App shell
-* Latest Web APIs
-* SSE 
+* Latest Web APIs (Storage, Add-to-homescreen, Native FS, Share)
+* Server-Sent Events (SSE) 
 * Web sockets 
 * Service workers (Workbox)
 * Push notifications
+* WebAPK, Trusted Web Activity (TWA)
+
+* [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
+* [CSR / SSR (Next.js, sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
+
+### JAMStack (Static site generator,..)
+* GatsbyJS
 
 #### Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
@@ -259,7 +265,6 @@
 * [gRPC](https://grpc.io/)
 * [QUIC](https://en.wikipedia.org/wiki/QUIC)
 * HTTP/2, HTTP/3
-* Web Components (Custom Elements, Shadow DOM)
 
 #### Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
