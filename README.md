@@ -28,7 +28,7 @@
 * Terminal/CMD usage (Basic Commands)
 
 #### Version control & Repo hosting (Git, Github)
-#### Developer Tools & Utilities, Code editor vs IDE, API Clients
+#### Developer Tools & Utilities, Code editor vs IDE, API Clients, Debuggers
 * [VS Code](https://code.visualstudio.com/)
 * [nodemon](https://nodemon.io/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
@@ -107,6 +107,7 @@
 * WebAPK, Trusted Web Activity (TWA)
 * [Single Page Apps (SPA) vs MPA (traditional)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
 * [CSR / Server-Side Rendering ([Next.js](https://nextjs.org/)), sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
+* Template engines
 
 ### JAMStack (Static site generator,..)
 * GatsbyJS
