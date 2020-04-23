@@ -172,7 +172,7 @@
 * JWT
 * OAuth 2.0
 * OpenID Connect
-* Single Sign-On (Kerberos, SAML)
+* Active directory, LDAP, NTLM, Kerberos, SAML, Single Sign-On
 * Certificates
 
 #### Message Brokers
