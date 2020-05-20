@@ -98,6 +98,7 @@
 * [Babel](https://babeljs.io/)
 
 ### Progressive Web Apps 
+* https://dev.to/sudhakar3697/intro-to-progressive-web-apps-34oo
 * App shell
 * Latest Web APIs (Refer the Web/Browser API section)
 * Server-Sent Events (SSE) 
