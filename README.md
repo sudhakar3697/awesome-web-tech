@@ -286,3 +286,5 @@
 * https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
 * https://developer.mozilla.org/en-US/docs/Web/API
 * https://platform.html5.org/
+* https://whatwebcando.today/
+* https://caniuse.com/
