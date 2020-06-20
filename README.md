@@ -149,7 +149,7 @@
 * [PostgreSQL](https://www.postgresql.org/)
 * [SQLite](https://www.sqlite.org/index.html)
 
-#### ORM ([Sequelize](https://sequelize.org/)) & Query builders ([Knex](http://knexjs.org/))
+#### ORM/ODM ([Sequelize](https://sequelize.org/)) & Query builders ([Knex](http://knexjs.org/))
 
 #### NoSQL DB
 * [MongoDB](https://www.mongodb.com/) & MongoDB Atlas
@@ -217,7 +217,7 @@
 * Docker, Kubernetes, Unikernels
 * Web Servers (Apache, Nginx)
 * https (letsencrypt)
-* netlify, Github pages
+* Static hosting (Netlify, Github pages)
 * GIT
 * Tunnels (Ngrok)
 * Proxy, VPN
@@ -226,6 +226,8 @@
 * Logging (morgan, winston)
 * Load balancing
 * Backups
+* Domain registration (Namecheap, Google domains), cPanel
+* Managed hosting (InMotion, Hostgator, Bluehost)
 
 #### Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
@@ -248,6 +250,8 @@
 * [gRPC](https://grpc.io/)
 * [QUIC](https://en.wikipedia.org/wiki/QUIC)
 * HTTP/2, HTTP/3
+* Headless browsers
+* Automate browsers (Playwright, Puppeteer)
 
 #### Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
