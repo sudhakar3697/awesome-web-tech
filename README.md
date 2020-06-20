@@ -39,7 +39,7 @@
 * [Postman](https://www.getpostman.com/)
 
 #### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* HTML5, Semantics, Accessibility(A11y)
+* HTML5, Semantics, Accessibility(A11y), Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 * [Vector graphics to the Web (SVG)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 * [Document structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
@@ -280,3 +280,9 @@
 * [roadmap.sh](https://roadmap.sh)
 * [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [web-skills](https://andreasbm.github.io/web-skills/?compact)
+
+#### Resources
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+* https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+* https://developer.mozilla.org/en-US/docs/Web/API
+* https://platform.html5.org/
