@@ -171,7 +171,7 @@
 * Basic
 * Token Auth
 * JWT
-* OAuth 2.0
+* OAuth 2.0 (Proof Key for Code Exchange (PKCE))
 * OpenID Connect
 * Active directory, LDAP, NTLM, Kerberos, SAML, Single Sign-On
 * Certificates
