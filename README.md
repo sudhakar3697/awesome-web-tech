@@ -137,6 +137,7 @@
 * [GraphQL](https://graphql.org/)
 * [JSON API](https://jsonapi.org/) ❌
 * SOAP ❌
+* RPC ❌ (https://blog.jscrambler.com/rpc-style-vs-rest-web-apis)
 
 #### Server Side Languages/Runtimes (Javascript | Java | Go | Rust | Python | C# | PHP | Ruby)
 * [Node.js](https://nodejs.org/) (Event Loop, Modules, Cluster, Native node modules (N-API), Neon (RUST- wasm-pack))
