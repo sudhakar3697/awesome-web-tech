@@ -8,7 +8,7 @@
 * Web Page vs Website vs Web Server vs Web browser
 * Static Websites vs Dynamic Websites
 * HTTP/S Protocol (Request Methods, Headers, Cache, Cookies, Compression, CORS, CSP, Response codes), FTP.
-* Browsers (Rendering Engines-Blik, Gecko, Webkit, JavaScript Engines-V8, SpiderMonkey, JavascriptCore)
+* Browsers (Rendering Engines-Blink, Gecko, Webkit, JavaScript Engines-V8, SpiderMonkey, JavascriptCore)
 * Browser Search Engines (Google)
 * Character Encodings (UTF, ASCII)
 * Licenses (Open Source vs Closed Source, CC, MIT, Apache, GPL, LGPL)
