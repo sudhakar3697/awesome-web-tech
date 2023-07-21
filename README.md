@@ -1,6 +1,6 @@
 # Awesome Web Technologies
 
-## General (Refer the Computer Science section also)
+## Computer Science
 
 * Internet (IP, DNS, Proxy, domain)
 * World Wide Web
