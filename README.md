@@ -1,6 +1,6 @@
 # Awesome Web Technologies
 
-#### General (Refer the Computer Science section also)
+## General (Refer the Computer Science section also)
 
 * Internet (IP, DNS, Proxy, domain)
 * World Wide Web
@@ -27,8 +27,8 @@
 * CDN (Content Delivery Network)
 * Terminal/CMD usage (Basic Commands)
 
-#### Version control & Repo hosting (Git, Github)
-#### Developer Tools & Utilities, Code editor vs IDE, API Clients, Debuggers
+## Version control & Repo hosting (Git, Github)
+### Developer Tools & Utilities, Code editor vs IDE, API Clients, Debuggers
 * [VS Code](https://code.visualstudio.com/)
 * [nodemon](https://nodemon.io/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
@@ -39,12 +39,12 @@
 * [Postman](https://www.getpostman.com/)
 * [Respresso](https://respresso.io/)
 
-#### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * HTML5, Semantics, Accessibility(A11y), Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 * [Vector graphics to the Web (SVG)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 * [Document structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
-#### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
+## [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
 * CSS Box model, Grid, Flexbox, Positioning
 ##### CSS Pre-processors (SASS)
