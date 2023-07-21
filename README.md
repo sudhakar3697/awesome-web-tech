@@ -28,6 +28,7 @@
 * Terminal/CMD usage (Basic Commands)
 
 ## Version control & Repo hosting (Git, Github)
+
 ### Developer Tools & Utilities, Code editor vs IDE, API Clients, Debuggers
 * [VS Code](https://code.visualstudio.com/)
 * [nodemon](https://nodemon.io/)
@@ -47,13 +48,16 @@
 ## [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling (UI/UX) 
 * CSS3, Responsive Web Design (Media Queries, Relative units), Animations, UI-Lazy loading
 * CSS Box model, Grid, Flexbox, Positioning
-##### CSS Pre-processors (SASS)
-##### CSS Frameworks/Libraries
+
+## CSS Pre-processors (SASS)
+
+### CSS Frameworks/Libraries
 * CSS First - [Bootstrap](https://getbootstrap.com/)
 * JS Based - Material UI, [Ant Design](https://ant.design/)
-##### CSS Architecture (BEM)
 
-#### JavaScript
+## CSS Architecture (BEM)
+
+## JavaScript
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (Syntax, Concepts like hoisting, closure, generators)
 * Module system (CommonJS vs AMD vs UMD vs ESM)
 * ESNext (ECMAScript - Rest/Spread, Destructuring, Template Literals, let/const, for-await, for-of)
@@ -63,7 +67,7 @@
 * Understanding functions, context and binding in JavaScript
 * Events (Bubbling)
 
-#### Web/Browser APIs (DOM, BOM)
+## Web/Browser APIs (DOM, BOM)
 * DOM Manipulation
 * Device APIs
 * Communication APIs
@@ -75,26 +79,26 @@
 * Graphics (WebAnimations, 2D (Canvas, SVG), 3D (WebGL), Video/Audio, WebAudio WebRTC)
 * Streams
 
-#### Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
+## Vanilla JS vs. jQuery vs. Modern Frontend Frameworks
 * DOM vs virtual DOM vs shadow DOM
 * JSX
 
-#### Web Components (HTML Templates, Custom elements, Shadow DOM)
+## Web Components (HTML Templates, Custom elements, Shadow DOM)
 
-#### Front End Frameworks (SPA)
+## Front End Frameworks (SPA)
 * [React](https://reactjs.org/)
 * [Svelte](https://svelte.dev/) or Angular or Vue.
 
-#### Modern CSS (CSS in JS)
+## Modern CSS (CSS in JS)
 * Styles components
 * CSS modules
 
-#### State management
+## State management
 * [Redux](https://redux.js.org/)
 
-#### Router
+## Router
 
-#### JavaScript Flavors, Type Checkers, Polyfills, Transpilers, Compilers
+### JavaScript Flavors, Type Checkers, Polyfills, Transpilers, Compilers
 * [TypeScript](https://www.typescriptlang.org/)
 * [Babel](https://babeljs.io/)
 
@@ -111,64 +115,64 @@
 * [CSR / Server-Side Rendering ([Next.js](https://nextjs.org/)), sapper) / Hydration, Pre-Rendering](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 * Template engines
 
-### JAMStack (Static site generator,..)
+## JAMStack (Static site generator,..)
 * GatsbyJS
 
-#### [WebAssembly](https://webassembly.org/)
+## [WebAssembly](https://webassembly.org/)
 * WASM
 * WASI (Lucet, wasmer, wasmtime), https://bytecodealliance.org
 
-#### Module bundler, Minification, Obfuscation
+## Module bundler, Minification, Obfuscation
 * [Webpack](https://webpack.js.org/)
 
-#### Package Manager
+## Package Manager
 * [npm](https://www.npmjs.com/)
 
-#### Task runner 
+## Task runner 
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
 
-#### Linter
+## Linter
 * [ESLint](https://eslint.org/)
 
-#### Formatter
+## Formatter
 * [Prettier](https://prettier.io/)
 
-#### API
+## API
 * REST API
 * [GraphQL](https://graphql.org/)
 * [JSON API](https://jsonapi.org/) ❌
 * SOAP ❌
 * RPC ❌ (https://blog.jscrambler.com/rpc-style-vs-rest-web-apis)
 
-#### Server Side Languages/Runtimes (Javascript | Java | Go | Rust | Python | C# | PHP | Ruby)
+## Server Side Languages/Runtimes (Javascript | Java | Go | Rust | Python | C# | PHP | Ruby)
 * [Node.js](https://nodejs.org/) (Event Loop, Modules, Cluster, Native node modules (N-API), Neon (RUST- wasm-pack))
 * [Deno](https://deno.land/)
 
-### Back End Frameworks
+## Back End Frameworks
 * [Express.js](https://expressjs.com/) (Middlewares, Sessions, Streaming the response from Node.js Server)
 
-#### Relational DB (SQL)
+## Relational DB (SQL)
 * [PostgreSQL](https://www.postgresql.org/)
 * [SQLite](https://www.sqlite.org/index.html)
 
-#### ORM/ODM ([Sequelize](https://sequelize.org/)) & Query builders ([Knex](http://knexjs.org/))
+## ORM/ODM ([Sequelize](https://sequelize.org/)) & Query builders ([Knex](http://knexjs.org/))
 
-#### NoSQL DB
+## NoSQL DB
 * [MongoDB](https://www.mongodb.com/) & MongoDB Atlas
 
-#### Graph DB
+## Graph DB
 * dgraph or Neo4j
 
-#### Caching
+## Caching
 * Client-side : HTTP Cache
 * Server-side : Redis, MemCached
 * CDN
 
-#### Serverless
+## Serverless
 * Functions (AWS Lambda/ Azure functions/ Google Cloud functions)
 * Databases (Firebase cloud firestore, Amazon aurora, Azure Data lake, Google cloud datastore)
 
-#### Authentication / Authorization
+## Authentication / Authorization
 * Cookies
 * Basic
 * Token Auth
@@ -178,13 +182,13 @@
 * Active directory, LDAP, NTLM, Kerberos, SAML, Single Sign-On
 * Certificates
 
-#### Message Brokers
+## Message Brokers
 * RabbitMQ or Kafka
 
-#### Search Engine
+## Search Engine
 * ElasticSearch
 
-#### Security
+## Security
 * https://infosec.mozilla.org/guidelines/web_security
 * [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Index.html) (SQL injection, XSS, Broken auth/session management, CSRF)
 * HTTPS, Transport Layer Security (SSL/TLS)
@@ -194,25 +198,25 @@
 * Hash passwords (~~MD5~~, ~~SHA-1~~, Use Argon2, PBKDF2, scrypt or bcrypt)
 * [Hashing vs Encryption vs Encoding](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 
-#### Performance (Loading vs Rendering)
+## Performance (Loading vs Rendering)
 * Measuring performance (RAIL)
 * Tools (Lighthouse, WebPageTest, PageSpeed Insights, Chrome dev tools) 
 * Code splitting, Lazy loading
 * instant loading with the PRPL pattern
 
-#### Test (Unit vs functional vs integration) & Optimization
+## Test (Unit vs functional vs integration) & Optimization
 * Jest, Enzyme, Cypress
 * Lighthouse, DevTools
 
-#### Documentation
+## Documentation
 * Markdown
 * [JSDoc](https://github.com/jsdoc/jsdoc)
 * Swagger (https://app.swaggerhub.com/)
 
-##### Search Engine Optimization (SEO)
+## Search Engine Optimization (SEO)
 * SEO Friendly URLs (Slug)
 
-#### Deployment (Hosting), Containers, Virtualization & Scaling
+## Deployment (Hosting), Containers, Virtualization & Scaling
 * CI/CD
 * Source code protection
 * pkg
@@ -231,20 +235,20 @@
 * Domain registration (Namecheap, Google domains), cPanel
 * Managed hosting (InMotion, Hostgator, Bluehost)
 
-#### Programming Paradigms (OOP, functional, reactive)
+## Programming Paradigms (OOP, functional, reactive)
 * OOP (Polymorphism, Inheritance, Encapsulation, Abstraction, Aggregation and Composition)
 
-#### Architectural styles (Monolith, SOA, Microservices, Serverless, Event Sourcing, CQRS)
+## Architectural styles (Monolith, SOA, Microservices, Serverless, Event Sourcing, CQRS)
 
-#### Design patterns Gang of Four (GoF) -> (Creational vs Structural vs Behavioral)
+## Design patterns Gang of Four (GoF) -> (Creational vs Structural vs Behavioral)
 
-#### Architectural patterns (MVC, MVVM, MVP, Flux, Redux)
+## Architectural patterns (MVC, MVVM, MVP, Flux, Redux)
 
-#### Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA, DRY)
+## Design principles (SOLID, YAGNI, KISS, DIY, SSOT, SoC, TDA, DRY)
 
-#### Browser Extensions
+## Browser Extensions
 
-#### Misc
+## Misc
 * [Web Scrapping](https://pusher.com/tutorials/web-scraper-node)
 * [Bot](https://en.wikipedia.org/wiki/Internet_bot)
 * [Web Hooks](https://en.wikipedia.org/wiki/Webhook)
@@ -255,15 +259,15 @@
 * Headless browsers
 * Automate browsers (Playwright, Puppeteer)
 
-#### Mobile App Development using Web Technologies
+## Mobile App Development using Web Technologies
 * [React Native](https://facebook.github.io/react-native/). For alternatives [ReactNative-alternatives](https://github.com/sudhakar3697/ReactNative-alternatives)
 
-#### Desktop App Development using Web Technologies
+## Desktop App Development using Web Technologies
 * [electron](https://electronjs.org/). For alternatives [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives)
 
-#### [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
+## [Developing Games](https://wiki.developer.mozilla.org/en-US/docs/Games)
 
-#### Computer Science
+## Computer Science
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 * Programming (Binary, Pointers, Dynamic memory allocation, Memory leak, Garbage collection, Recursion, Concurrency, Parallelism, Multi-threading, Asynchronous, Compile vs interpret vs transpile, JIT, AOT, Exception Handling )
 * Software Engineering (SDLC, UML, Blackbox vs Whitebox Testing)
@@ -282,12 +286,12 @@
 * Internet of Things (Optional)
 * Mathematics, Statistics (As applicable to CS)
 
-#### References
+## References
 * [roadmap.sh](https://roadmap.sh)
 * [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [web-skills](https://andreasbm.github.io/web-skills/?compact)
 
-#### Resources
+## Resources
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
 * https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
 * https://developer.mozilla.org/en-US/docs/Web/API
